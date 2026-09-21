@@ -5,11 +5,6 @@ Offline-first SIH MVP scaffold.
 ## Stack
 - Frontend: React + Vite + Tailwind CSS + Leaflet
 - Backend: FastAPI + SQLAlchemy + Pydantic
-- Database: SQLite
-- Intelligence placeholders: inventory prediction, risk, optimization, simulation, SOS
-- Maps: local GeoJSON (`frontend/public/data/polar.geojson`)
-
-## Run backend
 ```bash
 cd backend
 python -m venv .venv
