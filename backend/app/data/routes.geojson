@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "R001",
+        "name": "Goa to Mumbai Cargo Corridor",
+        "type": "SEA",
+        "mode": "VOYAGE",
+        "status": "OPERATIONAL",
+        "risk_level": "LOW",
+        "estimated_days": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [73.8567, 15.4909],
+          [72.8777, 19.0760]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "R002",
+        "name": "Mumbai to Cape Town Maritime Corridor",
+        "type": "SEA",
+        "mode": "VOYAGE",
+        "status": "OPERATIONAL",
+        "risk_level": "MEDIUM",
+        "estimated_days": 18
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [72.8777, 19.0760],
+          [55.0, 5.0],
+          [30.0, -20.0],
+          [18.4241, -33.9249]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "R003",
+        "name": "Cape Town to Maitri Antarctic Corridor",
+        "type": "SEA",
+        "mode": "VOYAGE",
+        "status": "OPERATIONAL",
+        "risk_level": "HIGH",
+        "estimated_days": 12
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [18.4241, -33.9249],
+          [10.0, -45.0],
+          [5.0, -60.0],
+          [11.0, -70.0],
+          [11.7497, -70.7693]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "R004",
+        "name": "Cape Town to Antarctica Air Corridor",
+        "type": "AIR",
+        "mode": "AIR",
+        "status": "OPERATIONAL",
+        "risk_level": "HIGH",
+        "estimated_days": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [18.4241, -33.9249],
+          [15.0, -55.0],
+          [11.7497, -70.7693]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "R005",
+        "name": "Maitri to Bharati Field Corridor",
+        "type": "FIELD",
+        "mode": "FIELD",
+        "status": "OPERATIONAL",
+        "risk_level": "MEDIUM",
+        "estimated_days": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [11.7497, -70.7693],
+          [76.1870, -69.4160]
+        ]
+      }
+    }
+  ]
+}

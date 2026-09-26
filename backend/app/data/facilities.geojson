@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FAC001",
+        "name": "NCPOR Goa",
+        "type": "LOGISTICS_HUB",
+        "country": "India",
+        "status": "OPERATIONAL",
+        "role": "Cargo Planning and Dispatch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          15.4909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FAC002",
+        "name": "Mumbai Cargo Hub",
+        "type": "TRANSSHIPMENT_HUB",
+        "country": "India",
+        "status": "OPERATIONAL",
+        "role": "Cargo Consolidation and Transfer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8777,
+          19.0760
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FAC003",
+        "name": "Cape Town Gateway",
+        "type": "ANTARCTIC_GATEWAY",
+        "country": "South Africa",
+        "status": "OPERATIONAL",
+        "role": "Antarctic Cargo Gateway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4241,
+          -33.9249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FAC004",
+        "name": "Maitri Logistics Facility",
+        "type": "STATION_FACILITY",
+        "country": "Antarctica",
+        "status": "OPERATIONAL",
+        "role": "Station Supply and Field Operations"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7497,
+          -70.7693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FAC005",
+        "name": "Bharati Logistics Facility",
+        "type": "STATION_FACILITY",
+        "country": "Antarctica",
+        "status": "OPERATIONAL",
+        "role": "Station Supply and Field Operations"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1870,
+          -69.4160
+        ]
+      }
+    }
+  ]
+}

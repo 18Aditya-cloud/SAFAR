@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ST001",
+        "name": "Maitri",
+        "type": "RESEARCH_STATION",
+        "country": "India",
+        "status": "OPERATIONAL",
+        "personnel_capacity": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7497,
+          -70.7693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ST002",
+        "name": "Bharati",
+        "type": "RESEARCH_STATION",
+        "country": "India",
+        "status": "OPERATIONAL",
+        "personnel_capacity": 150
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1870,
+          -69.4160
+        ]
+      }
+    }
+  ]
+}
