@@ -12,6 +12,11 @@ from .routers import (
     simulation,
     cargo,
     routes,
+    risks,
+    optimization,
+    digital_twin,
+    sync,
+    reports,
 )
 
 
@@ -64,6 +69,13 @@ app.include_router(cargo.router, prefix="/api")
 # TRANSPORT & ROUTES
 app.include_router(routes.router, prefix="/api")
 
+# AI / ML
+app.include_router(risks.router, prefix="/api")
+app.include_router(optimization.router, prefix="/api")
+app.include_router(digital_twin.router, prefix="/api")
+app.include_router(sync.router, prefix="/api")
+app.include_router(reports.router, prefix="/api")
+
 
 # ============================================================
 # HEALTH CHECK
@@ -71,7 +83,9 @@ app.include_router(routes.router, prefix="/api")
 
 @app.get("/health")
 def health():
+    from .services._ml_store import models_ready
     return {
         "status": "online-local",
-        "service": "SAFAR"
+        "service": "SAFAR",
+        "ml_models_ready": models_ready(),
     }
