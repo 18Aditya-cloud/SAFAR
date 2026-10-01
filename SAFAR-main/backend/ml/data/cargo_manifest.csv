@@ -1,0 +1,61 @@
+cargo_code,description,category,weight_kg,volume_m3,priority,deadline_days,destination
+C-001,Food lot 1,FOOD,3318.7,5.87,NORMAL,39,Maitri
+C-002,Fuel lot 2,FUEL,4021.6,5.45,HIGH,66,Bharati
+C-003,Medical lot 3,MEDICAL,274.6,1.28,CRITICAL,71,Maitri
+C-004,Spare Parts lot 4,SPARE_PARTS,858.1,2.3,NORMAL,37,Bharati
+C-005,Scientific lot 5,SCIENTIFIC,1908.9,9.69,LOW,81,Maitri
+C-006,Construction lot 6,CONSTRUCTION,4541.8,13.81,LOW,65,Maitri
+C-007,Comms lot 7,COMMS,574.2,2.33,NORMAL,38,Maitri
+C-008,Ppe lot 8,PPE,469.4,2.65,NORMAL,22,Bharati
+C-009,General lot 9,GENERAL,1602.9,5.96,LOW,104,Maitri
+C-010,Food lot 10,FOOD,2259.5,5.3,CRITICAL,51,Maitri
+C-011,Fuel lot 11,FUEL,3244.1,4.72,CRITICAL,70,Maitri
+C-012,Medical lot 12,MEDICAL,355.3,1.35,CRITICAL,21,Maitri
+C-013,Spare Parts lot 13,SPARE_PARTS,383.0,1.03,CRITICAL,56,Bharati
+C-014,Scientific lot 14,SCIENTIFIC,403.7,1.72,NORMAL,73,Maitri
+C-015,Construction lot 15,CONSTRUCTION,4154.6,14.22,LOW,118,Maitri
+C-016,Comms lot 16,COMMS,116.4,0.49,HIGH,73,Bharati
+C-017,Ppe lot 17,PPE,812.9,3.83,HIGH,49,Maitri
+C-018,General lot 18,GENERAL,420.4,1.26,NORMAL,65,Maitri
+C-019,Food lot 19,FOOD,2832.0,7.35,HIGH,22,Bharati
+C-020,Fuel lot 20,FUEL,4914.6,5.49,HIGH,40,Bharati
+C-021,Medical lot 21,MEDICAL,352.0,1.55,CRITICAL,64,Maitri
+C-022,Spare Parts lot 22,SPARE_PARTS,1130.4,4.01,CRITICAL,60,Maitri
+C-023,Scientific lot 23,SCIENTIFIC,2326.1,10.96,HIGH,74,Bharati
+C-024,Construction lot 24,CONSTRUCTION,4321.0,13.3,NORMAL,46,Maitri
+C-025,Comms lot 25,COMMS,235.7,0.93,NORMAL,36,Maitri
+C-026,Ppe lot 26,PPE,367.3,1.9,HIGH,50,Bharati
+C-027,General lot 27,GENERAL,358.5,1.39,LOW,50,Maitri
+C-028,Fuel lot 28,FUEL,4558.3,5.92,NORMAL,30,Maitri
+C-029,Scientific lot 29,SCIENTIFIC,1577.5,6.96,LOW,71,Maitri
+C-030,General lot 30,GENERAL,1541.1,5.87,LOW,83,Bharati
+C-031,Comms lot 31,COMMS,102.3,0.36,CRITICAL,45,Maitri
+C-032,Spare Parts lot 32,SPARE_PARTS,793.0,2.29,HIGH,66,Bharati
+C-033,Food lot 33,FOOD,2648.3,6.21,NORMAL,44,Maitri
+C-034,General lot 34,GENERAL,1344.2,5.04,NORMAL,48,Maitri
+C-035,Construction lot 35,CONSTRUCTION,4427.5,17.53,HIGH,73,Maitri
+C-036,Comms lot 36,COMMS,161.4,0.61,HIGH,34,Bharati
+C-037,Food lot 37,FOOD,1668.3,3.72,HIGH,50,Bharati
+C-038,Comms lot 38,COMMS,470.4,1.79,CRITICAL,31,Maitri
+C-039,Ppe lot 39,PPE,188.9,0.86,HIGH,71,Maitri
+C-040,Food lot 40,FOOD,1862.9,4.86,HIGH,24,Maitri
+C-041,Comms lot 41,COMMS,73.4,0.28,CRITICAL,74,Maitri
+C-042,Fuel lot 42,FUEL,5523.8,6.82,HIGH,36,Maitri
+C-043,Scientific lot 43,SCIENTIFIC,488.1,1.79,HIGH,21,Maitri
+C-044,Construction lot 44,CONSTRUCTION,4552.1,15.4,NORMAL,22,Maitri
+C-045,General lot 45,GENERAL,766.2,2.23,NORMAL,68,Bharati
+C-046,Medical lot 46,MEDICAL,283.4,1.05,CRITICAL,36,Maitri
+C-047,General lot 47,GENERAL,1486.5,4.62,LOW,101,Bharati
+C-048,Scientific lot 48,SCIENTIFIC,606.0,2.74,LOW,52,Bharati
+C-049,Scientific lot 49,SCIENTIFIC,666.0,2.48,LOW,50,Maitri
+C-050,Construction lot 50,CONSTRUCTION,4519.2,13.15,NORMAL,65,Maitri
+C-051,General lot 51,GENERAL,1288.0,4.2,LOW,89,Maitri
+C-052,Spare Parts lot 52,SPARE_PARTS,1348.1,3.76,CRITICAL,37,Bharati
+C-053,Medical lot 53,MEDICAL,179.5,0.79,CRITICAL,74,Bharati
+C-054,Food lot 54,FOOD,3031.7,6.22,NORMAL,49,Maitri
+C-055,General lot 55,GENERAL,345.5,1.02,NORMAL,25,Bharati
+C-056,Ppe lot 56,PPE,790.6,3.75,HIGH,45,Maitri
+C-057,Scientific lot 57,SCIENTIFIC,1236.1,5.15,NORMAL,40,Maitri
+C-058,Comms lot 58,COMMS,264.3,0.99,HIGH,52,Maitri
+C-059,Scientific lot 59,SCIENTIFIC,2337.5,9.73,HIGH,45,Maitri
+C-060,Comms lot 60,COMMS,66.9,0.31,CRITICAL,71,Maitri

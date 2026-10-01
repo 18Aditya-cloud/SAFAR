@@ -1,0 +1,9 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {"type":"Feature","properties":{"name":"Antarctica","type":"continent"},"geometry":{"type":"Polygon","coordinates":[[[-180,-60],[-150,-63],[-125,-69],[-100,-73],[-80,-70],[-60,-74],[-40,-68],[-20,-70],[0,-67],[20,-70],[40,-68],[60,-72],[80,-68],[100,-70],[120,-66],[140,-64],[160,-61],[180,-60],[180,-90],[-180,-90],[-180,-60]]]}},
+    {"type":"Feature","properties":{"name":"Maitri","type":"station"},"geometry":{"type":"Point","coordinates":[11.95,-70.77]}},
+    {"type":"Feature","properties":{"name":"Bharati","type":"station"},"geometry":{"type":"Point","coordinates":[76.18,-69.41]}},
+    {"type":"Feature","properties":{"name":"Goa Central Operations","type":"center"},"geometry":{"type":"Point","coordinates":[73.86,15.49]}}
+  ]
+}

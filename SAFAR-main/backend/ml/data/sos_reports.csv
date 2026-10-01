@@ -1,0 +1,901 @@
+report_id,text,incident_type,severity
+S0000,"please advise field team trapped by whiteout, supplies for two days only please advise",WEATHER_ENTRAPMENT,HIGH
+S0001,"team leader says new crevasse spotted on route, marked and avoided on traverse",CREVASSE_ACCIDENT,LOW
+S0002,"near Bharati new crevasse spotted on route, marked and avoided team leader says",CREVASSE_ACCIDENT,LOW
+S0003,"please advise vehicle partially fallen into crevasse, crew trapped inside team leader says",CREVASSE_ACCIDENT,CRITICAL
+S0004,"on traverse large diesel spill near storage tank, ignition risk on traverse",FUEL_LEAK,CRITICAL
+S0005,reported by radio severe chest pain reported by field scientist team leader says,MEDICAL_EMERGENCY,CRITICAL
+S0006,"please advise fire spreading in accommodation module, evacuation started please advise",FIRE,CRITICAL
+S0007,"at Maitri weak signal at outpost, retrying reported by radio",COMMUNICATION_LOSS,LOW
+S0008,"please advise visibility poor, delaying return by hours reported by radio",WEATHER_ENTRAPMENT,LOW
+S0009,"reported by radio satellite link down, radio working please advise",COMMUNICATION_LOSS,MEDIUM
+S0010,"near Bharati fire spreading in accommodation module, evacuation started",FIRE,CRITICAL
+S0011,"near Bharati field team trapped by whiteout, supplies for two days only please advise",WEATHER_ENTRAPMENT,HIGH
+S0012,intermittent voltage drops in lab wing at Maitri,POWER_FAILURE,MEDIUM
+S0013,"reported by radio minor cut on hand, first aid applied at Maitri",MEDICAL_EMERGENCY,LOW
+S0014,urgent vehicle battery weak but can restart on traverse,VEHICLE_FAILURE,LOW
+S0015,"reported by radio small electrical fire in lab, extinguished at Maitri",FIRE,MEDIUM
+S0016,please advise intermittent voltage drops in lab wing team leader says,POWER_FAILURE,MEDIUM
+S0017,vehicle battery weak but can restart at Maitri,VEHICLE_FAILURE,LOW
+S0018,"at Maitri new crevasse spotted on route, marked and avoided please advise",CREVASSE_ACCIDENT,LOW
+S0019,"smoke in generator hall, source not found",FIRE,HIGH
+S0020,"at Maitri small drip at pump connector, tightened",FUEL_LEAK,LOW
+S0021,intermittent voltage drops in lab wing urgent,POWER_FAILURE,MEDIUM
+S0022,"small drip at pump connector, tightened reported by radio",FUEL_LEAK,LOW
+S0023,medical kits nearly exhausted after incident reported by radio,SUPPLY_SHORTAGE,HIGH
+S0024,"on traverse small electrical fire in lab, extinguished near Bharati",FIRE,HIGH
+S0025,"near Bharati food stock below critical level, resupply delayed team leader says",SUPPLY_SHORTAGE,HIGH
+S0026,at Maitri spare parts running low for next month at Maitri,SUPPLY_SHORTAGE,LOW
+S0027,on traverse medical kits nearly exhausted after incident on traverse,SUPPLY_SHORTAGE,HIGH
+S0028,"team leader says person slipped into crevasse, roped and conscious urgent",CREVASSE_ACCIDENT,CRITICAL
+S0029,"at Maitri main generator tripped, backup running urgent",POWER_FAILURE,HIGH
+S0030,"on traverse satellite link down, radio working team leader says",COMMUNICATION_LOSS,MEDIUM
+S0031,intermittent voltage drops in lab wing,POWER_FAILURE,MEDIUM
+S0032,"on traverse food stock below critical level, resupply delayed on traverse",SUPPLY_SHORTAGE,HIGH
+S0033,"reported by radio new crevasse spotted on route, marked and avoided on traverse",CREVASSE_ACCIDENT,LOW
+S0034,on traverse vehicle battery weak but can restart near Bharati,VEHICLE_FAILURE,LOW
+S0035,"at Maitri slow fuel leak from drum, contained with absorbent reported by radio",FUEL_LEAK,MEDIUM
+S0036,"slow fuel leak from drum, contained with absorbent team leader says",FUEL_LEAK,MEDIUM
+S0037,"team leader says small electrical fire in lab, extinguished urgent",FIRE,MEDIUM
+S0038,"team leader says frostbite on fingers of two crew, needs treatment near Bharati",MEDICAL_EMERGENCY,HIGH
+S0039,"main generator tripped, backup running team leader says",POWER_FAILURE,HIGH
+S0040,urgent vehicle battery weak but can restart at Maitri,VEHICLE_FAILURE,LOW
+S0041,"please advise food stock below critical level, resupply delayed urgent",SUPPLY_SHORTAGE,HIGH
+S0042,"team leader says smoke in generator hall, source not found urgent",FIRE,HIGH
+S0043,"urgent small drip at pump connector, tightened",FUEL_LEAK,LOW
+S0044,"reported by radio new crevasse spotted on route, marked and avoided on traverse",CREVASSE_ACCIDENT,LOW
+S0045,"sledge tow bracket broken, cargo stable please advise",VEHICLE_FAILURE,MEDIUM
+S0046,at Maitri severe chest pain reported by field scientist near Bharati,MEDICAL_EMERGENCY,CRITICAL
+S0047,"field team trapped by whiteout, supplies for two days only near Bharati",WEATHER_ENTRAPMENT,HIGH
+S0048,near Bharati vehicle battery weak but can restart reported by radio,VEHICLE_FAILURE,LOW
+S0049,"on traverse vehicle partially fallen into crevasse, crew trapped inside",CREVASSE_ACCIDENT,CRITICAL
+S0050,"at Maitri satellite link down, radio working please advise",COMMUNICATION_LOSS,MEDIUM
+S0051,"urgent field team trapped by whiteout, supplies for two days only",WEATHER_ENTRAPMENT,HIGH
+S0052,"field team trapped by whiteout, supplies for two days only urgent",WEATHER_ENTRAPMENT,HIGH
+S0053,at Maitri lost contact with field team for six hours team leader says,COMMUNICATION_LOSS,HIGH
+S0054,reported by radio total power loss at station during blizzard,POWER_FAILURE,CRITICAL
+S0055,"at Maitri suspected fracture in leg, patient stable team leader says",MEDICAL_EMERGENCY,HIGH
+S0056,"urgent visibility poor, delaying return by hours reported by radio",WEATHER_ENTRAPMENT,LOW
+S0057,"at Maitri large diesel spill near storage tank, ignition risk near Bharati",FUEL_LEAK,CRITICAL
+S0058,"team leader says large diesel spill near storage tank, ignition risk near Bharati",FUEL_LEAK,CRITICAL
+S0059,at Maitri vehicle engine overheating during traverse,VEHICLE_FAILURE,MEDIUM
+S0060,"team leader says minor cut on hand, first aid applied near Bharati",MEDICAL_EMERGENCY,LOW
+S0061,intermittent voltage drops in lab wing team leader says,POWER_FAILURE,MEDIUM
+S0062,urgent intermittent voltage drops in lab wing,POWER_FAILURE,MEDIUM
+S0063,"reported by radio field team trapped by whiteout, supplies for two days only please advise",WEATHER_ENTRAPMENT,HIGH
+S0064,"reported by radio burning smell from heater, switched off urgent",FIRE,LOW
+S0065,urgent spare parts running low for next month,SUPPLY_SHORTAGE,LOW
+S0066,"please advise tracked vehicle immobilised far from station, night approaching urgent",VEHICLE_FAILURE,HIGH
+S0067,"near Bharati vehicle partially fallen into crevasse, crew trapped inside at Maitri",CREVASSE_ACCIDENT,CRITICAL
+S0068,"urgent small drip at pump connector, tightened near Bharati",FUEL_LEAK,LOW
+S0069,"team leader says weak signal at outpost, retrying team leader says",COMMUNICATION_LOSS,LOW
+S0070,"at Maitri main generator tripped, backup running urgent",POWER_FAILURE,HIGH
+S0071,intermittent voltage drops in lab wing on traverse,POWER_FAILURE,MEDIUM
+S0072,"reported by radio large diesel spill near storage tank, ignition risk team leader says",FUEL_LEAK,CRITICAL
+S0073,"reported by radio burning smell from heater, switched off please advise",FIRE,LOW
+S0074,"urgent visibility poor, delaying return by hours urgent",WEATHER_ENTRAPMENT,LOW
+S0075,"on traverse strong katabatic winds, movement suspended, team sheltered please advise",WEATHER_ENTRAPMENT,MEDIUM
+S0076,"field team trapped by whiteout, supplies for two days only on traverse",WEATHER_ENTRAPMENT,HIGH
+S0077,near Bharati spare parts running low for next month reported by radio,SUPPLY_SHORTAGE,LOW
+S0078,intermittent voltage drops in lab wing at Maitri,POWER_FAILURE,MEDIUM
+S0079,"team leader says satellite link down, radio working team leader says",COMMUNICATION_LOSS,MEDIUM
+S0080,"near Bharati slow fuel leak from drum, contained with absorbent reported by radio",FUEL_LEAK,MEDIUM
+S0081,urgent intermittent voltage drops in lab wing please advise,POWER_FAILURE,MEDIUM
+S0082,"on traverse slow fuel leak from drum, contained with absorbent please advise",FUEL_LEAK,MEDIUM
+S0083,"team leader says minor cut on hand, first aid applied",MEDICAL_EMERGENCY,LOW
+S0084,"near Bharati strong katabatic winds, movement suspended, team sheltered at Maitri",WEATHER_ENTRAPMENT,MEDIUM
+S0085,"please advise field team trapped by whiteout, supplies for two days only near Bharati",WEATHER_ENTRAPMENT,HIGH
+S0086,total power loss at station during blizzard urgent,POWER_FAILURE,CRITICAL
+S0087,reported by radio medical kits nearly exhausted after incident urgent,SUPPLY_SHORTAGE,HIGH
+S0088,on traverse spare parts running low for next month on traverse,SUPPLY_SHORTAGE,LOW
+S0089,"person slipped into crevasse, roped and conscious near Bharati",CREVASSE_ACCIDENT,CRITICAL
+S0090,on traverse vehicle engine overheating during traverse near Bharati,VEHICLE_FAILURE,MEDIUM
+S0091,"team leader says team member unconscious after fall, not breathing normally at Maitri",MEDICAL_EMERGENCY,CRITICAL
+S0092,"person slipped into crevasse, roped and conscious",CREVASSE_ACCIDENT,CRITICAL
+S0093,on traverse vehicle engine overheating during traverse urgent,VEHICLE_FAILURE,MEDIUM
+S0094,"team leader says visibility poor, delaying return by hours reported by radio",WEATHER_ENTRAPMENT,LOW
+S0095,"team leader says suspected fracture in leg, patient stable team leader says",MEDICAL_EMERGENCY,HIGH
+S0096,"reported by radio burning smell from heater, switched off team leader says",FIRE,LOW
+S0097,"please advise slow fuel leak from drum, contained with absorbent reported by radio",FUEL_LEAK,MEDIUM
+S0098,"please advise strong katabatic winds, movement suspended, team sheltered at Maitri",WEATHER_ENTRAPMENT,MEDIUM
+S0099,team leader says total power loss at station during blizzard team leader says,POWER_FAILURE,CRITICAL
+S0100,"urgent field team trapped by whiteout, supplies for two days only near Bharati",WEATHER_ENTRAPMENT,HIGH
+S0101,"urgent fire spreading in accommodation module, evacuation started reported by radio",FIRE,CRITICAL
+S0102,"on traverse tracked vehicle immobilised far from station, night approaching at Maitri",VEHICLE_FAILURE,HIGH
+S0103,"please advise sledge tow bracket broken, cargo stable at Maitri",VEHICLE_FAILURE,MEDIUM
+S0104,"near Bharati vehicle partially fallen into crevasse, crew trapped inside on traverse",CREVASSE_ACCIDENT,CRITICAL
+S0105,"please advise strong katabatic winds, movement suspended, team sheltered urgent",WEATHER_ENTRAPMENT,MEDIUM
+S0106,"near Bharati weak signal at outpost, retrying please advise",COMMUNICATION_LOSS,LOW
+S0107,team leader says total power loss at station during blizzard team leader says,POWER_FAILURE,CRITICAL
+S0108,"reported by radio small electrical fire in lab, extinguished please advise",FIRE,MEDIUM
+S0109,"team leader says vehicle partially fallen into crevasse, crew trapped inside at Maitri",CREVASSE_ACCIDENT,CRITICAL
+S0110,"team leader says new crevasse spotted on route, marked and avoided on traverse",CREVASSE_ACCIDENT,LOW
+S0111,"reported by radio team member unconscious after fall, not breathing normally on traverse",MEDICAL_EMERGENCY,CRITICAL
+S0112,"on traverse strong katabatic winds, movement suspended, team sheltered please advise",WEATHER_ENTRAPMENT,MEDIUM
+S0113,"near Bharati food stock below critical level, resupply delayed please advise",SUPPLY_SHORTAGE,HIGH
+S0114,"on traverse frostbite on fingers of two crew, needs treatment near Bharati",MEDICAL_EMERGENCY,HIGH
+S0115,"on traverse small drip at pump connector, tightened",FUEL_LEAK,LOW
+S0116,"at Maitri person slipped into crevasse, roped and conscious",CREVASSE_ACCIDENT,CRITICAL
+S0117,"burning smell from heater, switched off",FIRE,LOW
+S0118,"on traverse weak signal at outpost, retrying on traverse",COMMUNICATION_LOSS,LOW
+S0119,total power loss at station during blizzard team leader says,POWER_FAILURE,CRITICAL
+S0120,"on traverse sledge tow bracket broken, cargo stable on traverse",VEHICLE_FAILURE,MEDIUM
+S0121,"on traverse frostbite on fingers of two crew, needs treatment please advise",MEDICAL_EMERGENCY,HIGH
+S0122,"reported by radio visibility poor, delaying return by hours near Bharati",WEATHER_ENTRAPMENT,LOW
+S0123,"please advise satellite link down, radio working at Maitri",COMMUNICATION_LOSS,MEDIUM
+S0124,"on traverse food stock below critical level, resupply delayed near Bharati",SUPPLY_SHORTAGE,HIGH
+S0125,"smoke in generator hall, source not found near Bharati",FIRE,HIGH
+S0126,"vehicle partially fallen into crevasse, crew trapped inside team leader says",CREVASSE_ACCIDENT,CRITICAL
+S0127,near Bharati severe chest pain reported by field scientist on traverse,MEDICAL_EMERGENCY,CRITICAL
+S0128,"please advise small drip at pump connector, tightened urgent",FUEL_LEAK,LOW
+S0129,reported by radio spare parts running low for next month near Bharati,SUPPLY_SHORTAGE,LOW
+S0130,"urgent large diesel spill near storage tank, ignition risk reported by radio",FUEL_LEAK,CRITICAL
+S0131,"at Maitri smoke in generator hall, source not found please advise",FIRE,HIGH
+S0132,"near Bharati field team trapped by whiteout, supplies for two days only near Bharati",WEATHER_ENTRAPMENT,HIGH
+S0133,"at Maitri tracked vehicle immobilised far from station, night approaching urgent",VEHICLE_FAILURE,CRITICAL
+S0134,near Bharati intermittent voltage drops in lab wing urgent,POWER_FAILURE,MEDIUM
+S0135,near Bharati vehicle engine overheating during traverse near Bharati,VEHICLE_FAILURE,HIGH
+S0136,on traverse spare parts running low for next month team leader says,SUPPLY_SHORTAGE,LOW
+S0137,near Bharati lost contact with field team for six hours near Bharati,COMMUNICATION_LOSS,HIGH
+S0138,near Bharati vehicle battery weak but can restart near Bharati,VEHICLE_FAILURE,LOW
+S0139,at Maitri total power loss at station during blizzard on traverse,POWER_FAILURE,CRITICAL
+S0140,"team leader says sledge tow bracket broken, cargo stable team leader says",VEHICLE_FAILURE,MEDIUM
+S0141,"on traverse visibility poor, delaying return by hours on traverse",WEATHER_ENTRAPMENT,LOW
+S0142,"urgent burning smell from heater, switched off at Maitri",FIRE,LOW
+S0143,"please advise burning smell from heater, switched off reported by radio",FIRE,LOW
+S0144,"near Bharati frostbite on fingers of two crew, needs treatment team leader says",MEDICAL_EMERGENCY,MEDIUM
+S0145,"urgent new crevasse spotted on route, marked and avoided",CREVASSE_ACCIDENT,LOW
+S0146,"at Maitri small electrical fire in lab, extinguished reported by radio",FIRE,MEDIUM
+S0147,"team leader says main generator tripped, backup running please advise",POWER_FAILURE,HIGH
+S0148,"at Maitri minor cut on hand, first aid applied on traverse",MEDICAL_EMERGENCY,LOW
+S0149,"urgent large diesel spill near storage tank, ignition risk at Maitri",FUEL_LEAK,CRITICAL
+S0150,team leader says severe chest pain reported by field scientist reported by radio,MEDICAL_EMERGENCY,CRITICAL
+S0151,"on traverse field team trapped by whiteout, supplies for two days only please advise",WEATHER_ENTRAPMENT,HIGH
+S0152,urgent intermittent voltage drops in lab wing at Maitri,POWER_FAILURE,MEDIUM
+S0153,"reported by radio minor cut on hand, first aid applied on traverse",MEDICAL_EMERGENCY,LOW
+S0154,"at Maitri new crevasse spotted on route, marked and avoided",CREVASSE_ACCIDENT,LOW
+S0155,"at Maitri large diesel spill near storage tank, ignition risk please advise",FUEL_LEAK,HIGH
+S0156,"please advise slow fuel leak from drum, contained with absorbent on traverse",FUEL_LEAK,LOW
+S0157,near Bharati medical kits nearly exhausted after incident team leader says,SUPPLY_SHORTAGE,HIGH
+S0158,please advise vehicle engine overheating during traverse at Maitri,VEHICLE_FAILURE,MEDIUM
+S0159,"team leader says suspected fracture in leg, patient stable on traverse",MEDICAL_EMERGENCY,HIGH
+S0160,near Bharati medical kits nearly exhausted after incident,SUPPLY_SHORTAGE,HIGH
+S0161,"sledge tow bracket broken, cargo stable on traverse",VEHICLE_FAILURE,MEDIUM
+S0162,"urgent person slipped into crevasse, roped and conscious at Maitri",CREVASSE_ACCIDENT,CRITICAL
+S0163,reported by radio vehicle battery weak but can restart on traverse,VEHICLE_FAILURE,LOW
+S0164,"urgent sledge tow bracket broken, cargo stable on traverse",VEHICLE_FAILURE,MEDIUM
+S0165,"reported by radio person slipped into crevasse, roped and conscious at Maitri",CREVASSE_ACCIDENT,CRITICAL
+S0166,"near Bharati minor cut on hand, first aid applied at Maitri",MEDICAL_EMERGENCY,LOW
+S0167,"at Maitri main generator tripped, backup running please advise",POWER_FAILURE,HIGH
+S0168,"please advise main generator tripped, backup running on traverse",POWER_FAILURE,HIGH
+S0169,"near Bharati food stock below critical level, resupply delayed reported by radio",SUPPLY_SHORTAGE,HIGH
+S0170,reported by radio intermittent voltage drops in lab wing please advise,POWER_FAILURE,MEDIUM
+S0171,"at Maitri large diesel spill near storage tank, ignition risk near Bharati",FUEL_LEAK,CRITICAL
+S0172,"reported by radio food stock below critical level, resupply delayed on traverse",SUPPLY_SHORTAGE,HIGH
+S0173,"on traverse main generator tripped, backup running reported by radio",POWER_FAILURE,HIGH
+S0174,"urgent person slipped into crevasse, roped and conscious",CREVASSE_ACCIDENT,CRITICAL
+S0175,on traverse total power loss at station during blizzard team leader says,POWER_FAILURE,CRITICAL
+S0176,"vehicle partially fallen into crevasse, crew trapped inside on traverse",CREVASSE_ACCIDENT,CRITICAL
+S0177,"at Maitri sledge tow bracket broken, cargo stable please advise",VEHICLE_FAILURE,MEDIUM
+S0178,"near Bharati food stock below critical level, resupply delayed urgent",SUPPLY_SHORTAGE,HIGH
+S0179,"at Maitri smoke in generator hall, source not found team leader says",FIRE,HIGH
+S0180,"urgent large diesel spill near storage tank, ignition risk",FUEL_LEAK,CRITICAL
+S0181,"team leader says person slipped into crevasse, roped and conscious",CREVASSE_ACCIDENT,CRITICAL
+S0182,"near Bharati fire spreading in accommodation module, evacuation started please advise",FIRE,CRITICAL
+S0183,"at Maitri field team trapped by whiteout, supplies for two days only please advise",WEATHER_ENTRAPMENT,HIGH
+S0184,reported by radio vehicle battery weak but can restart urgent,VEHICLE_FAILURE,LOW
+S0185,"team leader says small electrical fire in lab, extinguished at Maitri",FIRE,MEDIUM
+S0186,"on traverse vehicle partially fallen into crevasse, crew trapped inside",CREVASSE_ACCIDENT,CRITICAL
+S0187,"at Maitri smoke in generator hall, source not found team leader says",FIRE,HIGH
+S0188,please advise total power loss at station during blizzard at Maitri,POWER_FAILURE,CRITICAL
+S0189,"team leader says satellite link down, radio working reported by radio",COMMUNICATION_LOSS,MEDIUM
+S0190,"please advise small electrical fire in lab, extinguished on traverse",FIRE,MEDIUM
+S0191,urgent intermittent voltage drops in lab wing,POWER_FAILURE,MEDIUM
+S0192,"urgent visibility poor, delaying return by hours urgent",WEATHER_ENTRAPMENT,LOW
+S0193,team leader says spare parts running low for next month reported by radio,SUPPLY_SHORTAGE,LOW
+S0194,"team leader says vehicle partially fallen into crevasse, crew trapped inside please advise",CREVASSE_ACCIDENT,CRITICAL
+S0195,"team leader says food stock below critical level, resupply delayed please advise",SUPPLY_SHORTAGE,HIGH
+S0196,near Bharati lost contact with field team for six hours urgent,COMMUNICATION_LOSS,HIGH
+S0197,"frostbite on fingers of two crew, needs treatment urgent",MEDICAL_EMERGENCY,HIGH
+S0198,"on traverse team member unconscious after fall, not breathing normally please advise",MEDICAL_EMERGENCY,CRITICAL
+S0199,"urgent visibility poor, delaying return by hours at Maitri",WEATHER_ENTRAPMENT,LOW
+S0200,"please advise slow fuel leak from drum, contained with absorbent on traverse",FUEL_LEAK,MEDIUM
+S0201,"reported by radio new crevasse spotted on route, marked and avoided at Maitri",CREVASSE_ACCIDENT,LOW
+S0202,"reported by radio sledge tow bracket broken, cargo stable team leader says",VEHICLE_FAILURE,MEDIUM
+S0203,at Maitri medical kits nearly exhausted after incident at Maitri,SUPPLY_SHORTAGE,HIGH
+S0204,"near Bharati new crevasse spotted on route, marked and avoided",CREVASSE_ACCIDENT,LOW
+S0205,"reported by radio smoke in generator hall, source not found near Bharati",FIRE,HIGH
+S0206,"at Maitri large diesel spill near storage tank, ignition risk urgent",FUEL_LEAK,CRITICAL
+S0207,"team leader says small drip at pump connector, tightened reported by radio",FUEL_LEAK,LOW
+S0208,please advise spare parts running low for next month team leader says,SUPPLY_SHORTAGE,LOW
+S0209,"urgent vehicle partially fallen into crevasse, crew trapped inside",CREVASSE_ACCIDENT,CRITICAL
+S0210,team leader says lost contact with field team for six hours near Bharati,COMMUNICATION_LOSS,HIGH
+S0211,"please advise smoke in generator hall, source not found near Bharati",FIRE,HIGH
+S0212,"slow fuel leak from drum, contained with absorbent near Bharati",FUEL_LEAK,MEDIUM
+S0213,"on traverse sledge tow bracket broken, cargo stable",VEHICLE_FAILURE,MEDIUM
+S0214,"urgent food stock below critical level, resupply delayed",SUPPLY_SHORTAGE,MEDIUM
+S0215,"near Bharati field team trapped by whiteout, supplies for two days only at Maitri",WEATHER_ENTRAPMENT,HIGH
+S0216,"suspected fracture in leg, patient stable on traverse",MEDICAL_EMERGENCY,HIGH
+S0217,"team leader says new crevasse spotted on route, marked and avoided urgent",CREVASSE_ACCIDENT,LOW
+S0218,"field team trapped by whiteout, supplies for two days only urgent",WEATHER_ENTRAPMENT,HIGH
+S0219,"urgent satellite link down, radio working please advise",COMMUNICATION_LOSS,MEDIUM
+S0220,urgent vehicle battery weak but can restart,VEHICLE_FAILURE,LOW
+S0221,intermittent voltage drops in lab wing on traverse,POWER_FAILURE,MEDIUM
+S0222,"reported by radio team member unconscious after fall, not breathing normally reported by radio",MEDICAL_EMERGENCY,CRITICAL
+S0223,"near Bharati slow fuel leak from drum, contained with absorbent",FUEL_LEAK,MEDIUM
+S0224,"near Bharati field team trapped by whiteout, supplies for two days only",WEATHER_ENTRAPMENT,HIGH
+S0225,"please advise burning smell from heater, switched off on traverse",FIRE,LOW
+S0226,"reported by radio sledge tow bracket broken, cargo stable at Maitri",VEHICLE_FAILURE,MEDIUM
+S0227,"urgent field team trapped by whiteout, supplies for two days only please advise",WEATHER_ENTRAPMENT,HIGH
+S0228,"urgent field team trapped by whiteout, supplies for two days only urgent",WEATHER_ENTRAPMENT,HIGH
+S0229,"reported by radio burning smell from heater, switched off reported by radio",FIRE,LOW
+S0230,"visibility poor, delaying return by hours on traverse",WEATHER_ENTRAPMENT,LOW
+S0231,"reported by radio tracked vehicle immobilised far from station, night approaching team leader says",VEHICLE_FAILURE,HIGH
+S0232,"on traverse sledge tow bracket broken, cargo stable near Bharati",VEHICLE_FAILURE,MEDIUM
+S0233,reported by radio lost contact with field team for six hours on traverse,COMMUNICATION_LOSS,HIGH
+S0234,"urgent small drip at pump connector, tightened reported by radio",FUEL_LEAK,LOW
+S0235,"at Maitri fire spreading in accommodation module, evacuation started please advise",FIRE,CRITICAL
+S0236,please advise total power loss at station during blizzard on traverse,POWER_FAILURE,CRITICAL
+S0237,"urgent sledge tow bracket broken, cargo stable",VEHICLE_FAILURE,MEDIUM
+S0238,please advise intermittent voltage drops in lab wing reported by radio,POWER_FAILURE,MEDIUM
+S0239,please advise spare parts running low for next month on traverse,SUPPLY_SHORTAGE,LOW
+S0240,"at Maitri suspected fracture in leg, patient stable",MEDICAL_EMERGENCY,HIGH
+S0241,"new crevasse spotted on route, marked and avoided near Bharati",CREVASSE_ACCIDENT,LOW
+S0242,urgent severe chest pain reported by field scientist reported by radio,MEDICAL_EMERGENCY,CRITICAL
+S0243,"at Maitri person slipped into crevasse, roped and conscious please advise",CREVASSE_ACCIDENT,CRITICAL
+S0244,"please advise satellite link down, radio working team leader says",COMMUNICATION_LOSS,MEDIUM
+S0245,"urgent slow fuel leak from drum, contained with absorbent please advise",FUEL_LEAK,MEDIUM
+S0246,"near Bharati small drip at pump connector, tightened reported by radio",FUEL_LEAK,LOW
+S0247,reported by radio lost contact with field team for six hours,COMMUNICATION_LOSS,HIGH
+S0248,"near Bharati new crevasse spotted on route, marked and avoided",CREVASSE_ACCIDENT,LOW
+S0249,please advise total power loss at station during blizzard team leader says,POWER_FAILURE,CRITICAL
+S0250,"reported by radio visibility poor, delaying return by hours",WEATHER_ENTRAPMENT,LOW
+S0251,"near Bharati field team trapped by whiteout, supplies for two days only please advise",WEATHER_ENTRAPMENT,HIGH
+S0252,"near Bharati small drip at pump connector, tightened at Maitri",FUEL_LEAK,LOW
+S0253,"on traverse new crevasse spotted on route, marked and avoided at Maitri",CREVASSE_ACCIDENT,LOW
+S0254,"on traverse visibility poor, delaying return by hours team leader says",WEATHER_ENTRAPMENT,MEDIUM
+S0255,"on traverse large diesel spill near storage tank, ignition risk please advise",FUEL_LEAK,CRITICAL
+S0256,"at Maitri vehicle partially fallen into crevasse, crew trapped inside",CREVASSE_ACCIDENT,CRITICAL
+S0257,please advise vehicle battery weak but can restart urgent,VEHICLE_FAILURE,LOW
+S0258,at Maitri vehicle engine overheating during traverse reported by radio,VEHICLE_FAILURE,MEDIUM
+S0259,"on traverse strong katabatic winds, movement suspended, team sheltered urgent",WEATHER_ENTRAPMENT,MEDIUM
+S0260,"urgent new crevasse spotted on route, marked and avoided",CREVASSE_ACCIDENT,LOW
+S0261,"urgent slow fuel leak from drum, contained with absorbent please advise",FUEL_LEAK,MEDIUM
+S0262,"reported by radio tracked vehicle immobilised far from station, night approaching urgent",VEHICLE_FAILURE,HIGH
+S0263,"tracked vehicle immobilised far from station, night approaching",VEHICLE_FAILURE,HIGH
+S0264,"please advise person slipped into crevasse, roped and conscious team leader says",CREVASSE_ACCIDENT,CRITICAL
+S0265,"reported by radio sledge tow bracket broken, cargo stable please advise",VEHICLE_FAILURE,MEDIUM
+S0266,"please advise sledge tow bracket broken, cargo stable urgent",VEHICLE_FAILURE,MEDIUM
+S0267,"please advise vehicle partially fallen into crevasse, crew trapped inside at Maitri",CREVASSE_ACCIDENT,CRITICAL
+S0268,near Bharati vehicle engine overheating during traverse at Maitri,VEHICLE_FAILURE,MEDIUM
+S0269,"small electrical fire in lab, extinguished reported by radio",FIRE,MEDIUM
+S0270,"on traverse large diesel spill near storage tank, ignition risk on traverse",FUEL_LEAK,CRITICAL
+S0271,"smoke in generator hall, source not found please advise",FIRE,HIGH
+S0272,on traverse lost contact with field team for six hours reported by radio,COMMUNICATION_LOSS,CRITICAL
+S0273,reported by radio total power loss at station during blizzard urgent,POWER_FAILURE,CRITICAL
+S0274,"near Bharati field team trapped by whiteout, supplies for two days only near Bharati",WEATHER_ENTRAPMENT,HIGH
+S0275,"near Bharati strong katabatic winds, movement suspended, team sheltered",WEATHER_ENTRAPMENT,MEDIUM
+S0276,"near Bharati main generator tripped, backup running reported by radio",POWER_FAILURE,HIGH
+S0277,near Bharati spare parts running low for next month reported by radio,SUPPLY_SHORTAGE,LOW
+S0278,"please advise visibility poor, delaying return by hours on traverse",WEATHER_ENTRAPMENT,LOW
+S0279,"at Maitri slow fuel leak from drum, contained with absorbent at Maitri",FUEL_LEAK,MEDIUM
+S0280,"strong katabatic winds, movement suspended, team sheltered team leader says",WEATHER_ENTRAPMENT,MEDIUM
+S0281,on traverse total power loss at station during blizzard on traverse,POWER_FAILURE,CRITICAL
+S0282,"near Bharati small electrical fire in lab, extinguished near Bharati",FIRE,MEDIUM
+S0283,"at Maitri satellite link down, radio working reported by radio",COMMUNICATION_LOSS,MEDIUM
+S0284,at Maitri severe chest pain reported by field scientist at Maitri,MEDICAL_EMERGENCY,CRITICAL
+S0285,please advise spare parts running low for next month,SUPPLY_SHORTAGE,LOW
+S0286,"large diesel spill near storage tank, ignition risk team leader says",FUEL_LEAK,CRITICAL
+S0287,at Maitri severe chest pain reported by field scientist team leader says,MEDICAL_EMERGENCY,CRITICAL
+S0288,"on traverse satellite link down, radio working",COMMUNICATION_LOSS,MEDIUM
+S0289,at Maitri vehicle engine overheating during traverse please advise,VEHICLE_FAILURE,MEDIUM
+S0290,"on traverse person slipped into crevasse, roped and conscious on traverse",CREVASSE_ACCIDENT,CRITICAL
+S0291,"reported by radio fire spreading in accommodation module, evacuation started at Maitri",FIRE,CRITICAL
+S0292,"please advise tracked vehicle immobilised far from station, night approaching team leader says",VEHICLE_FAILURE,HIGH
+S0293,"on traverse strong katabatic winds, movement suspended, team sheltered near Bharati",WEATHER_ENTRAPMENT,MEDIUM
+S0294,urgent intermittent voltage drops in lab wing urgent,POWER_FAILURE,MEDIUM
+S0295,urgent spare parts running low for next month please advise,SUPPLY_SHORTAGE,LOW
+S0296,"near Bharati satellite link down, radio working please advise",COMMUNICATION_LOSS,MEDIUM
+S0297,reported by radio medical kits nearly exhausted after incident at Maitri,SUPPLY_SHORTAGE,HIGH
+S0298,on traverse lost contact with field team for six hours at Maitri,COMMUNICATION_LOSS,HIGH
+S0299,vehicle battery weak but can restart urgent,VEHICLE_FAILURE,LOW
+S0300,near Bharati total power loss at station during blizzard team leader says,POWER_FAILURE,CRITICAL
+S0301,"satellite link down, radio working urgent",COMMUNICATION_LOSS,MEDIUM
+S0302,"near Bharati large diesel spill near storage tank, ignition risk please advise",FUEL_LEAK,CRITICAL
+S0303,"please advise minor cut on hand, first aid applied reported by radio",MEDICAL_EMERGENCY,LOW
+S0304,"team leader says burning smell from heater, switched off",FIRE,LOW
+S0305,"on traverse fire spreading in accommodation module, evacuation started on traverse",FIRE,CRITICAL
+S0306,near Bharati intermittent voltage drops in lab wing team leader says,POWER_FAILURE,MEDIUM
+S0307,"small drip at pump connector, tightened near Bharati",FUEL_LEAK,LOW
+S0308,"reported by radio new crevasse spotted on route, marked and avoided please advise",CREVASSE_ACCIDENT,LOW
+S0309,"please advise field team trapped by whiteout, supplies for two days only at Maitri",WEATHER_ENTRAPMENT,HIGH
+S0310,"near Bharati strong katabatic winds, movement suspended, team sheltered on traverse",WEATHER_ENTRAPMENT,MEDIUM
+S0311,"near Bharati small electrical fire in lab, extinguished team leader says",FIRE,MEDIUM
+S0312,reported by radio intermittent voltage drops in lab wing please advise,POWER_FAILURE,MEDIUM
+S0313,"please advise weak signal at outpost, retrying on traverse",COMMUNICATION_LOSS,LOW
+S0314,"person slipped into crevasse, roped and conscious on traverse",CREVASSE_ACCIDENT,CRITICAL
+S0315,team leader says lost contact with field team for six hours at Maitri,COMMUNICATION_LOSS,HIGH
+S0316,please advise severe chest pain reported by field scientist reported by radio,MEDICAL_EMERGENCY,CRITICAL
+S0317,"team leader says small drip at pump connector, tightened please advise",FUEL_LEAK,LOW
+S0318,urgent vehicle engine overheating during traverse near Bharati,VEHICLE_FAILURE,MEDIUM
+S0319,reported by radio total power loss at station during blizzard reported by radio,POWER_FAILURE,CRITICAL
+S0320,"at Maitri smoke in generator hall, source not found urgent",FIRE,HIGH
+S0321,"please advise vehicle partially fallen into crevasse, crew trapped inside near Bharati",CREVASSE_ACCIDENT,CRITICAL
+S0322,"new crevasse spotted on route, marked and avoided team leader says",CREVASSE_ACCIDENT,LOW
+S0323,reported by radio medical kits nearly exhausted after incident at Maitri,SUPPLY_SHORTAGE,HIGH
+S0324,"on traverse satellite link down, radio working please advise",COMMUNICATION_LOSS,MEDIUM
+S0325,"team leader says new crevasse spotted on route, marked and avoided on traverse",CREVASSE_ACCIDENT,LOW
+S0326,"urgent burning smell from heater, switched off at Maitri",FIRE,LOW
+S0327,"urgent vehicle partially fallen into crevasse, crew trapped inside on traverse",CREVASSE_ACCIDENT,CRITICAL
+S0328,"team leader says burning smell from heater, switched off at Maitri",FIRE,LOW
+S0329,"on traverse vehicle partially fallen into crevasse, crew trapped inside reported by radio",CREVASSE_ACCIDENT,CRITICAL
+S0330,on traverse severe chest pain reported by field scientist on traverse,MEDICAL_EMERGENCY,CRITICAL
+S0331,"near Bharati visibility poor, delaying return by hours near Bharati",WEATHER_ENTRAPMENT,LOW
+S0332,"urgent small drip at pump connector, tightened near Bharati",FUEL_LEAK,LOW
+S0333,"please advise fire spreading in accommodation module, evacuation started please advise",FIRE,CRITICAL
+S0334,"on traverse tracked vehicle immobilised far from station, night approaching",VEHICLE_FAILURE,CRITICAL
+S0335,"reported by radio minor cut on hand, first aid applied urgent",MEDICAL_EMERGENCY,LOW
+S0336,near Bharati intermittent voltage drops in lab wing please advise,POWER_FAILURE,MEDIUM
+S0337,"reported by radio tracked vehicle immobilised far from station, night approaching please advise",VEHICLE_FAILURE,HIGH
+S0338,"reported by radio large diesel spill near storage tank, ignition risk at Maitri",FUEL_LEAK,CRITICAL
+S0339,on traverse spare parts running low for next month near Bharati,SUPPLY_SHORTAGE,LOW
+S0340,"team leader says vehicle partially fallen into crevasse, crew trapped inside please advise",CREVASSE_ACCIDENT,CRITICAL
+S0341,"near Bharati food stock below critical level, resupply delayed team leader says",SUPPLY_SHORTAGE,HIGH
+S0342,reported by radio vehicle engine overheating during traverse,VEHICLE_FAILURE,MEDIUM
+S0343,"near Bharati food stock below critical level, resupply delayed urgent",SUPPLY_SHORTAGE,HIGH
+S0344,"on traverse new crevasse spotted on route, marked and avoided team leader says",CREVASSE_ACCIDENT,LOW
+S0345,"urgent slow fuel leak from drum, contained with absorbent reported by radio",FUEL_LEAK,MEDIUM
+S0346,"reported by radio new crevasse spotted on route, marked and avoided near Bharati",CREVASSE_ACCIDENT,LOW
+S0347,"on traverse smoke in generator hall, source not found reported by radio",FIRE,HIGH
+S0348,at Maitri vehicle engine overheating during traverse urgent,VEHICLE_FAILURE,HIGH
+S0349,"at Maitri fire spreading in accommodation module, evacuation started please advise",FIRE,CRITICAL
+S0350,"please advise team member unconscious after fall, not breathing normally on traverse",MEDICAL_EMERGENCY,CRITICAL
+S0351,"urgent main generator tripped, backup running urgent",POWER_FAILURE,HIGH
+S0352,"urgent sledge tow bracket broken, cargo stable please advise",VEHICLE_FAILURE,MEDIUM
+S0353,"near Bharati satellite link down, radio working reported by radio",COMMUNICATION_LOSS,MEDIUM
+S0354,please advise medical kits nearly exhausted after incident at Maitri,SUPPLY_SHORTAGE,HIGH
+S0355,"reported by radio food stock below critical level, resupply delayed reported by radio",SUPPLY_SHORTAGE,HIGH
+S0356,please advise total power loss at station during blizzard on traverse,POWER_FAILURE,CRITICAL
+S0357,reported by radio spare parts running low for next month on traverse,SUPPLY_SHORTAGE,LOW
+S0358,spare parts running low for next month urgent,SUPPLY_SHORTAGE,LOW
+S0359,"team leader says weak signal at outpost, retrying on traverse",COMMUNICATION_LOSS,LOW
+S0360,team leader says intermittent voltage drops in lab wing urgent,POWER_FAILURE,MEDIUM
+S0361,"near Bharati slow fuel leak from drum, contained with absorbent urgent",FUEL_LEAK,MEDIUM
+S0362,"on traverse smoke in generator hall, source not found on traverse",FIRE,HIGH
+S0363,"near Bharati strong katabatic winds, movement suspended, team sheltered at Maitri",WEATHER_ENTRAPMENT,MEDIUM
+S0364,"team leader says person slipped into crevasse, roped and conscious reported by radio",CREVASSE_ACCIDENT,CRITICAL
+S0365,"urgent field team trapped by whiteout, supplies for two days only at Maitri",WEATHER_ENTRAPMENT,HIGH
+S0366,"new crevasse spotted on route, marked and avoided team leader says",CREVASSE_ACCIDENT,LOW
+S0367,lost contact with field team for six hours team leader says,COMMUNICATION_LOSS,HIGH
+S0368,team leader says vehicle engine overheating during traverse team leader says,VEHICLE_FAILURE,MEDIUM
+S0369,urgent lost contact with field team for six hours please advise,COMMUNICATION_LOSS,HIGH
+S0370,"team leader says field team trapped by whiteout, supplies for two days only",WEATHER_ENTRAPMENT,HIGH
+S0371,"reported by radio slow fuel leak from drum, contained with absorbent reported by radio",FUEL_LEAK,MEDIUM
+S0372,"at Maitri large diesel spill near storage tank, ignition risk please advise",FUEL_LEAK,CRITICAL
+S0373,near Bharati intermittent voltage drops in lab wing team leader says,POWER_FAILURE,HIGH
+S0374,team leader says vehicle battery weak but can restart,VEHICLE_FAILURE,LOW
+S0375,"urgent main generator tripped, backup running on traverse",POWER_FAILURE,HIGH
+S0376,"team leader says smoke in generator hall, source not found please advise",FIRE,HIGH
+S0377,"at Maitri small drip at pump connector, tightened",FUEL_LEAK,LOW
+S0378,"team leader says food stock below critical level, resupply delayed team leader says",SUPPLY_SHORTAGE,HIGH
+S0379,reported by radio spare parts running low for next month at Maitri,SUPPLY_SHORTAGE,LOW
+S0380,"large diesel spill near storage tank, ignition risk near Bharati",FUEL_LEAK,HIGH
+S0381,please advise intermittent voltage drops in lab wing near Bharati,POWER_FAILURE,MEDIUM
+S0382,"reported by radio visibility poor, delaying return by hours on traverse",WEATHER_ENTRAPMENT,LOW
+S0383,"reported by radio vehicle partially fallen into crevasse, crew trapped inside reported by radio",CREVASSE_ACCIDENT,HIGH
+S0384,"team leader says food stock below critical level, resupply delayed near Bharati",SUPPLY_SHORTAGE,HIGH
+S0385,"urgent satellite link down, radio working",COMMUNICATION_LOSS,MEDIUM
+S0386,"at Maitri person slipped into crevasse, roped and conscious",CREVASSE_ACCIDENT,CRITICAL
+S0387,"urgent frostbite on fingers of two crew, needs treatment",MEDICAL_EMERGENCY,HIGH
+S0388,"near Bharati frostbite on fingers of two crew, needs treatment",MEDICAL_EMERGENCY,HIGH
+S0389,"team leader says field team trapped by whiteout, supplies for two days only reported by radio",WEATHER_ENTRAPMENT,HIGH
+S0390,"slow fuel leak from drum, contained with absorbent urgent",FUEL_LEAK,MEDIUM
+S0391,"near Bharati food stock below critical level, resupply delayed",SUPPLY_SHORTAGE,HIGH
+S0392,"at Maitri main generator tripped, backup running reported by radio",POWER_FAILURE,HIGH
+S0393,"team leader says fire spreading in accommodation module, evacuation started near Bharati",FIRE,CRITICAL
+S0394,"reported by radio burning smell from heater, switched off on traverse",FIRE,LOW
+S0395,"urgent person slipped into crevasse, roped and conscious at Maitri",CREVASSE_ACCIDENT,CRITICAL
+S0396,"at Maitri mild hypothermia symptoms, being warmed in shelter urgent",MEDICAL_EMERGENCY,MEDIUM
+S0397,"tracked vehicle immobilised far from station, night approaching urgent",VEHICLE_FAILURE,HIGH
+S0398,"please advise small electrical fire in lab, extinguished team leader says",FIRE,MEDIUM
+S0399,spare parts running low for next month,SUPPLY_SHORTAGE,LOW
+S0400,"on traverse main generator tripped, backup running",POWER_FAILURE,HIGH
+S0401,"team leader says small drip at pump connector, tightened",FUEL_LEAK,LOW
+S0402,please advise medical kits nearly exhausted after incident reported by radio,SUPPLY_SHORTAGE,HIGH
+S0403,"near Bharati satellite link down, radio working urgent",COMMUNICATION_LOSS,MEDIUM
+S0404,please advise vehicle battery weak but can restart near Bharati,VEHICLE_FAILURE,LOW
+S0405,"urgent small drip at pump connector, tightened team leader says",FUEL_LEAK,LOW
+S0406,"near Bharati sledge tow bracket broken, cargo stable at Maitri",VEHICLE_FAILURE,MEDIUM
+S0407,near Bharati total power loss at station during blizzard urgent,POWER_FAILURE,CRITICAL
+S0408,please advise spare parts running low for next month near Bharati,SUPPLY_SHORTAGE,LOW
+S0409,reported by radio severe chest pain reported by field scientist reported by radio,MEDICAL_EMERGENCY,CRITICAL
+S0410,"urgent tracked vehicle immobilised far from station, night approaching at Maitri",VEHICLE_FAILURE,HIGH
+S0411,"please advise new crevasse spotted on route, marked and avoided at Maitri",CREVASSE_ACCIDENT,LOW
+S0412,"near Bharati slow fuel leak from drum, contained with absorbent on traverse",FUEL_LEAK,LOW
+S0413,"on traverse field team trapped by whiteout, supplies for two days only at Maitri",WEATHER_ENTRAPMENT,HIGH
+S0414,"please advise weak signal at outpost, retrying",COMMUNICATION_LOSS,LOW
+S0415,"near Bharati main generator tripped, backup running",POWER_FAILURE,HIGH
+S0416,"at Maitri team member unconscious after fall, not breathing normally team leader says",MEDICAL_EMERGENCY,CRITICAL
+S0417,"at Maitri small drip at pump connector, tightened urgent",FUEL_LEAK,LOW
+S0418,"team leader says main generator tripped, backup running at Maitri",POWER_FAILURE,HIGH
+S0419,urgent spare parts running low for next month reported by radio,SUPPLY_SHORTAGE,LOW
+S0420,"near Bharati sledge tow bracket broken, cargo stable team leader says",VEHICLE_FAILURE,MEDIUM
+S0421,"at Maitri food stock below critical level, resupply delayed at Maitri",SUPPLY_SHORTAGE,HIGH
+S0422,team leader says vehicle engine overheating during traverse reported by radio,VEHICLE_FAILURE,MEDIUM
+S0423,"reported by radio visibility poor, delaying return by hours team leader says",WEATHER_ENTRAPMENT,LOW
+S0424,vehicle battery weak but can restart at Maitri,VEHICLE_FAILURE,LOW
+S0425,"at Maitri person slipped into crevasse, roped and conscious reported by radio",CREVASSE_ACCIDENT,CRITICAL
+S0426,"near Bharati fire spreading in accommodation module, evacuation started at Maitri",FIRE,CRITICAL
+S0427,"at Maitri team member unconscious after fall, not breathing normally team leader says",MEDICAL_EMERGENCY,HIGH
+S0428,"urgent sledge tow bracket broken, cargo stable on traverse",VEHICLE_FAILURE,MEDIUM
+S0429,urgent total power loss at station during blizzard please advise,POWER_FAILURE,CRITICAL
+S0430,intermittent voltage drops in lab wing,POWER_FAILURE,MEDIUM
+S0431,at Maitri spare parts running low for next month on traverse,SUPPLY_SHORTAGE,LOW
+S0432,reported by radio spare parts running low for next month near Bharati,SUPPLY_SHORTAGE,LOW
+S0433,urgent lost contact with field team for six hours urgent,COMMUNICATION_LOSS,HIGH
+S0434,near Bharati spare parts running low for next month team leader says,SUPPLY_SHORTAGE,LOW
+S0435,team leader says vehicle engine overheating during traverse,VEHICLE_FAILURE,MEDIUM
+S0436,"team leader says sledge tow bracket broken, cargo stable on traverse",VEHICLE_FAILURE,MEDIUM
+S0437,"at Maitri field team trapped by whiteout, supplies for two days only reported by radio",WEATHER_ENTRAPMENT,HIGH
+S0438,"on traverse fire spreading in accommodation module, evacuation started reported by radio",FIRE,CRITICAL
+S0439,"on traverse new crevasse spotted on route, marked and avoided please advise",CREVASSE_ACCIDENT,LOW
+S0440,"near Bharati vehicle partially fallen into crevasse, crew trapped inside near Bharati",CREVASSE_ACCIDENT,CRITICAL
+S0441,near Bharati lost contact with field team for six hours on traverse,COMMUNICATION_LOSS,HIGH
+S0442,total power loss at station during blizzard reported by radio,POWER_FAILURE,CRITICAL
+S0443,reported by radio lost contact with field team for six hours team leader says,COMMUNICATION_LOSS,HIGH
+S0444,at Maitri intermittent voltage drops in lab wing please advise,POWER_FAILURE,MEDIUM
+S0445,"at Maitri burning smell from heater, switched off near Bharati",FIRE,LOW
+S0446,near Bharati lost contact with field team for six hours near Bharati,COMMUNICATION_LOSS,CRITICAL
+S0447,at Maitri medical kits nearly exhausted after incident please advise,SUPPLY_SHORTAGE,HIGH
+S0448,"urgent suspected fracture in leg, patient stable at Maitri",MEDICAL_EMERGENCY,HIGH
+S0449,"near Bharati vehicle partially fallen into crevasse, crew trapped inside near Bharati",CREVASSE_ACCIDENT,CRITICAL
+S0450,"please advise field team trapped by whiteout, supplies for two days only on traverse",WEATHER_ENTRAPMENT,MEDIUM
+S0451,"small drip at pump connector, tightened at Maitri",FUEL_LEAK,MEDIUM
+S0452,"near Bharati weak signal at outpost, retrying at Maitri",COMMUNICATION_LOSS,LOW
+S0453,"please advise minor cut on hand, first aid applied reported by radio",MEDICAL_EMERGENCY,LOW
+S0454,"near Bharati field team trapped by whiteout, supplies for two days only at Maitri",WEATHER_ENTRAPMENT,HIGH
+S0455,"please advise slow fuel leak from drum, contained with absorbent please advise",FUEL_LEAK,MEDIUM
+S0456,"urgent visibility poor, delaying return by hours team leader says",WEATHER_ENTRAPMENT,LOW
+S0457,"reported by radio vehicle partially fallen into crevasse, crew trapped inside reported by radio",CREVASSE_ACCIDENT,CRITICAL
+S0458,"on traverse smoke in generator hall, source not found at Maitri",FIRE,HIGH
+S0459,spare parts running low for next month at Maitri,SUPPLY_SHORTAGE,LOW
+S0460,"near Bharati food stock below critical level, resupply delayed team leader says",SUPPLY_SHORTAGE,HIGH
+S0461,"visibility poor, delaying return by hours",WEATHER_ENTRAPMENT,LOW
+S0462,"person slipped into crevasse, roped and conscious team leader says",CREVASSE_ACCIDENT,CRITICAL
+S0463,team leader says total power loss at station during blizzard on traverse,POWER_FAILURE,CRITICAL
+S0464,team leader says vehicle battery weak but can restart near Bharati,VEHICLE_FAILURE,LOW
+S0465,"reported by radio new crevasse spotted on route, marked and avoided urgent",CREVASSE_ACCIDENT,LOW
+S0466,"urgent large diesel spill near storage tank, ignition risk team leader says",FUEL_LEAK,HIGH
+S0467,"food stock below critical level, resupply delayed near Bharati",SUPPLY_SHORTAGE,HIGH
+S0468,lost contact with field team for six hours urgent,COMMUNICATION_LOSS,HIGH
+S0469,"urgent food stock below critical level, resupply delayed at Maitri",SUPPLY_SHORTAGE,HIGH
+S0470,"at Maitri slow fuel leak from drum, contained with absorbent please advise",FUEL_LEAK,MEDIUM
+S0471,"urgent strong katabatic winds, movement suspended, team sheltered reported by radio",WEATHER_ENTRAPMENT,MEDIUM
+S0472,"urgent vehicle partially fallen into crevasse, crew trapped inside near Bharati",CREVASSE_ACCIDENT,CRITICAL
+S0473,"frostbite on fingers of two crew, needs treatment urgent",MEDICAL_EMERGENCY,HIGH
+S0474,"at Maitri weak signal at outpost, retrying on traverse",COMMUNICATION_LOSS,LOW
+S0475,"near Bharati sledge tow bracket broken, cargo stable at Maitri",VEHICLE_FAILURE,MEDIUM
+S0476,please advise intermittent voltage drops in lab wing,POWER_FAILURE,MEDIUM
+S0477,"team member unconscious after fall, not breathing normally reported by radio",MEDICAL_EMERGENCY,CRITICAL
+S0478,at Maitri vehicle battery weak but can restart please advise,VEHICLE_FAILURE,LOW
+S0479,team leader says medical kits nearly exhausted after incident team leader says,SUPPLY_SHORTAGE,HIGH
+S0480,"at Maitri large diesel spill near storage tank, ignition risk at Maitri",FUEL_LEAK,CRITICAL
+S0481,on traverse lost contact with field team for six hours near Bharati,COMMUNICATION_LOSS,HIGH
+S0482,"near Bharati fire spreading in accommodation module, evacuation started",FIRE,CRITICAL
+S0483,on traverse total power loss at station during blizzard team leader says,POWER_FAILURE,CRITICAL
+S0484,"at Maitri small drip at pump connector, tightened team leader says",FUEL_LEAK,LOW
+S0485,"reported by radio field team trapped by whiteout, supplies for two days only please advise",WEATHER_ENTRAPMENT,HIGH
+S0486,"vehicle partially fallen into crevasse, crew trapped inside please advise",CREVASSE_ACCIDENT,CRITICAL
+S0487,medical kits nearly exhausted after incident at Maitri,SUPPLY_SHORTAGE,HIGH
+S0488,"at Maitri food stock below critical level, resupply delayed near Bharati",SUPPLY_SHORTAGE,HIGH
+S0489,"person slipped into crevasse, roped and conscious",CREVASSE_ACCIDENT,CRITICAL
+S0490,"reported by radio small drip at pump connector, tightened",FUEL_LEAK,LOW
+S0491,"please advise frostbite on fingers of two crew, needs treatment team leader says",MEDICAL_EMERGENCY,HIGH
+S0492,team leader says intermittent voltage drops in lab wing reported by radio,POWER_FAILURE,MEDIUM
+S0493,reported by radio vehicle engine overheating during traverse at Maitri,VEHICLE_FAILURE,MEDIUM
+S0494,at Maitri severe chest pain reported by field scientist team leader says,MEDICAL_EMERGENCY,CRITICAL
+S0495,"team leader says fire spreading in accommodation module, evacuation started please advise",FIRE,CRITICAL
+S0496,at Maitri total power loss at station during blizzard,POWER_FAILURE,CRITICAL
+S0497,"on traverse small drip at pump connector, tightened reported by radio",FUEL_LEAK,LOW
+S0498,reported by radio medical kits nearly exhausted after incident team leader says,SUPPLY_SHORTAGE,MEDIUM
+S0499,"urgent large diesel spill near storage tank, ignition risk reported by radio",FUEL_LEAK,CRITICAL
+S0500,"please advise new crevasse spotted on route, marked and avoided reported by radio",CREVASSE_ACCIDENT,LOW
+S0501,"on traverse new crevasse spotted on route, marked and avoided at Maitri",CREVASSE_ACCIDENT,LOW
+S0502,"reported by radio strong katabatic winds, movement suspended, team sheltered on traverse",WEATHER_ENTRAPMENT,MEDIUM
+S0503,"at Maitri field team trapped by whiteout, supplies for two days only",WEATHER_ENTRAPMENT,HIGH
+S0504,"at Maitri small electrical fire in lab, extinguished team leader says",FIRE,MEDIUM
+S0505,"urgent large diesel spill near storage tank, ignition risk at Maitri",FUEL_LEAK,CRITICAL
+S0506,"smoke in generator hall, source not found on traverse",FIRE,HIGH
+S0507,"at Maitri suspected fracture in leg, patient stable",MEDICAL_EMERGENCY,HIGH
+S0508,"near Bharati small drip at pump connector, tightened please advise",FUEL_LEAK,LOW
+S0509,urgent spare parts running low for next month please advise,SUPPLY_SHORTAGE,LOW
+S0510,"urgent slow fuel leak from drum, contained with absorbent near Bharati",FUEL_LEAK,MEDIUM
+S0511,"please advise fire spreading in accommodation module, evacuation started team leader says",FIRE,CRITICAL
+S0512,"at Maitri sledge tow bracket broken, cargo stable on traverse",VEHICLE_FAILURE,MEDIUM
+S0513,"urgent large diesel spill near storage tank, ignition risk",FUEL_LEAK,CRITICAL
+S0514,"tracked vehicle immobilised far from station, night approaching urgent",VEHICLE_FAILURE,HIGH
+S0515,reported by radio vehicle engine overheating during traverse reported by radio,VEHICLE_FAILURE,MEDIUM
+S0516,urgent vehicle battery weak but can restart urgent,VEHICLE_FAILURE,LOW
+S0517,"tracked vehicle immobilised far from station, night approaching near Bharati",VEHICLE_FAILURE,HIGH
+S0518,"reported by radio visibility poor, delaying return by hours reported by radio",WEATHER_ENTRAPMENT,LOW
+S0519,"near Bharati weak signal at outpost, retrying at Maitri",COMMUNICATION_LOSS,LOW
+S0520,"near Bharati tracked vehicle immobilised far from station, night approaching urgent",VEHICLE_FAILURE,HIGH
+S0521,"minor cut on hand, first aid applied please advise",MEDICAL_EMERGENCY,LOW
+S0522,"reported by radio vehicle partially fallen into crevasse, crew trapped inside at Maitri",CREVASSE_ACCIDENT,CRITICAL
+S0523,"urgent tracked vehicle immobilised far from station, night approaching near Bharati",VEHICLE_FAILURE,HIGH
+S0524,"small drip at pump connector, tightened near Bharati",FUEL_LEAK,LOW
+S0525,lost contact with field team for six hours team leader says,COMMUNICATION_LOSS,HIGH
+S0526,"large diesel spill near storage tank, ignition risk on traverse",FUEL_LEAK,HIGH
+S0527,on traverse spare parts running low for next month urgent,SUPPLY_SHORTAGE,LOW
+S0528,on traverse severe chest pain reported by field scientist please advise,MEDICAL_EMERGENCY,CRITICAL
+S0529,urgent vehicle engine overheating during traverse please advise,VEHICLE_FAILURE,MEDIUM
+S0530,"near Bharati main generator tripped, backup running reported by radio",POWER_FAILURE,MEDIUM
+S0531,"burning smell from heater, switched off",FIRE,LOW
+S0532,"urgent weak signal at outpost, retrying team leader says",COMMUNICATION_LOSS,LOW
+S0533,near Bharati intermittent voltage drops in lab wing urgent,POWER_FAILURE,MEDIUM
+S0534,"near Bharati field team trapped by whiteout, supplies for two days only urgent",WEATHER_ENTRAPMENT,HIGH
+S0535,urgent total power loss at station during blizzard team leader says,POWER_FAILURE,CRITICAL
+S0536,"near Bharati small electrical fire in lab, extinguished on traverse",FIRE,MEDIUM
+S0537,reported by radio spare parts running low for next month near Bharati,SUPPLY_SHORTAGE,LOW
+S0538,"main generator tripped, backup running near Bharati",POWER_FAILURE,HIGH
+S0539,on traverse intermittent voltage drops in lab wing please advise,POWER_FAILURE,MEDIUM
+S0540,"reported by radio person slipped into crevasse, roped and conscious at Maitri",CREVASSE_ACCIDENT,CRITICAL
+S0541,"at Maitri field team trapped by whiteout, supplies for two days only",WEATHER_ENTRAPMENT,HIGH
+S0542,vehicle engine overheating during traverse at Maitri,VEHICLE_FAILURE,MEDIUM
+S0543,"team leader says satellite link down, radio working near Bharati",COMMUNICATION_LOSS,MEDIUM
+S0544,"on traverse smoke in generator hall, source not found at Maitri",FIRE,HIGH
+S0545,"please advise weak signal at outpost, retrying",COMMUNICATION_LOSS,LOW
+S0546,on traverse spare parts running low for next month on traverse,SUPPLY_SHORTAGE,LOW
+S0547,"urgent slow fuel leak from drum, contained with absorbent",FUEL_LEAK,MEDIUM
+S0548,"at Maitri vehicle partially fallen into crevasse, crew trapped inside urgent",CREVASSE_ACCIDENT,CRITICAL
+S0549,on traverse lost contact with field team for six hours on traverse,COMMUNICATION_LOSS,HIGH
+S0550,"food stock below critical level, resupply delayed reported by radio",SUPPLY_SHORTAGE,HIGH
+S0551,"at Maitri visibility poor, delaying return by hours at Maitri",WEATHER_ENTRAPMENT,LOW
+S0552,near Bharati spare parts running low for next month,SUPPLY_SHORTAGE,LOW
+S0553,"reported by radio fire spreading in accommodation module, evacuation started please advise",FIRE,CRITICAL
+S0554,"fire spreading in accommodation module, evacuation started",FIRE,CRITICAL
+S0555,"reported by radio team member unconscious after fall, not breathing normally reported by radio",MEDICAL_EMERGENCY,CRITICAL
+S0556,"urgent slow fuel leak from drum, contained with absorbent at Maitri",FUEL_LEAK,MEDIUM
+S0557,reported by radio severe chest pain reported by field scientist team leader says,MEDICAL_EMERGENCY,CRITICAL
+S0558,"team leader says weak signal at outpost, retrying urgent",COMMUNICATION_LOSS,LOW
+S0559,on traverse medical kits nearly exhausted after incident please advise,SUPPLY_SHORTAGE,HIGH
+S0560,"please advise new crevasse spotted on route, marked and avoided",CREVASSE_ACCIDENT,LOW
+S0561,"weak signal at outpost, retrying urgent",COMMUNICATION_LOSS,LOW
+S0562,"on traverse mild hypothermia symptoms, being warmed in shelter",MEDICAL_EMERGENCY,MEDIUM
+S0563,on traverse vehicle engine overheating during traverse please advise,VEHICLE_FAILURE,MEDIUM
+S0564,"reported by radio slow fuel leak from drum, contained with absorbent reported by radio",FUEL_LEAK,MEDIUM
+S0565,"near Bharati visibility poor, delaying return by hours please advise",WEATHER_ENTRAPMENT,LOW
+S0566,"team leader says new crevasse spotted on route, marked and avoided",CREVASSE_ACCIDENT,LOW
+S0567,"reported by radio strong katabatic winds, movement suspended, team sheltered reported by radio",WEATHER_ENTRAPMENT,MEDIUM
+S0568,"at Maitri slow fuel leak from drum, contained with absorbent",FUEL_LEAK,MEDIUM
+S0569,"reported by radio strong katabatic winds, movement suspended, team sheltered on traverse",WEATHER_ENTRAPMENT,MEDIUM
+S0570,urgent intermittent voltage drops in lab wing on traverse,POWER_FAILURE,MEDIUM
+S0571,"please advise large diesel spill near storage tank, ignition risk please advise",FUEL_LEAK,CRITICAL
+S0572,"at Maitri vehicle partially fallen into crevasse, crew trapped inside team leader says",CREVASSE_ACCIDENT,CRITICAL
+S0573,"please advise satellite link down, radio working",COMMUNICATION_LOSS,MEDIUM
+S0574,"on traverse person slipped into crevasse, roped and conscious on traverse",CREVASSE_ACCIDENT,CRITICAL
+S0575,urgent severe chest pain reported by field scientist,MEDICAL_EMERGENCY,CRITICAL
+S0576,"on traverse sledge tow bracket broken, cargo stable",VEHICLE_FAILURE,MEDIUM
+S0577,"please advise vehicle partially fallen into crevasse, crew trapped inside on traverse",CREVASSE_ACCIDENT,CRITICAL
+S0578,please advise spare parts running low for next month,SUPPLY_SHORTAGE,LOW
+S0579,"at Maitri new crevasse spotted on route, marked and avoided",CREVASSE_ACCIDENT,LOW
+S0580,"visibility poor, delaying return by hours reported by radio",WEATHER_ENTRAPMENT,LOW
+S0581,please advise lost contact with field team for six hours near Bharati,COMMUNICATION_LOSS,HIGH
+S0582,"on traverse new crevasse spotted on route, marked and avoided at Maitri",CREVASSE_ACCIDENT,LOW
+S0583,"on traverse new crevasse spotted on route, marked and avoided team leader says",CREVASSE_ACCIDENT,LOW
+S0584,"at Maitri strong katabatic winds, movement suspended, team sheltered reported by radio",WEATHER_ENTRAPMENT,MEDIUM
+S0585,"at Maitri satellite link down, radio working on traverse",COMMUNICATION_LOSS,MEDIUM
+S0586,"please advise new crevasse spotted on route, marked and avoided reported by radio",CREVASSE_ACCIDENT,LOW
+S0587,urgent vehicle battery weak but can restart team leader says,VEHICLE_FAILURE,LOW
+S0588,"minor cut on hand, first aid applied near Bharati",MEDICAL_EMERGENCY,LOW
+S0589,"team leader says large diesel spill near storage tank, ignition risk team leader says",FUEL_LEAK,CRITICAL
+S0590,team leader says total power loss at station during blizzard at Maitri,POWER_FAILURE,CRITICAL
+S0591,"urgent tracked vehicle immobilised far from station, night approaching please advise",VEHICLE_FAILURE,HIGH
+S0592,on traverse spare parts running low for next month reported by radio,SUPPLY_SHORTAGE,LOW
+S0593,"on traverse small drip at pump connector, tightened reported by radio",FUEL_LEAK,LOW
+S0594,"small drip at pump connector, tightened on traverse",FUEL_LEAK,LOW
+S0595,urgent vehicle battery weak but can restart urgent,VEHICLE_FAILURE,LOW
+S0596,"at Maitri weak signal at outpost, retrying urgent",COMMUNICATION_LOSS,LOW
+S0597,"reported by radio slow fuel leak from drum, contained with absorbent urgent",FUEL_LEAK,MEDIUM
+S0598,"near Bharati weak signal at outpost, retrying please advise",COMMUNICATION_LOSS,LOW
+S0599,"on traverse food stock below critical level, resupply delayed near Bharati",SUPPLY_SHORTAGE,HIGH
+S0600,"at Maitri food stock below critical level, resupply delayed near Bharati",SUPPLY_SHORTAGE,HIGH
+S0601,"near Bharati new crevasse spotted on route, marked and avoided",CREVASSE_ACCIDENT,LOW
+S0602,reported by radio spare parts running low for next month near Bharati,SUPPLY_SHORTAGE,LOW
+S0603,near Bharati lost contact with field team for six hours please advise,COMMUNICATION_LOSS,HIGH
+S0604,on traverse intermittent voltage drops in lab wing please advise,POWER_FAILURE,MEDIUM
+S0605,"team leader says smoke in generator hall, source not found team leader says",FIRE,HIGH
+S0606,"reported by radio new crevasse spotted on route, marked and avoided reported by radio",CREVASSE_ACCIDENT,LOW
+S0607,"urgent smoke in generator hall, source not found urgent",FIRE,HIGH
+S0608,"team leader says fire spreading in accommodation module, evacuation started on traverse",FIRE,CRITICAL
+S0609,at Maitri intermittent voltage drops in lab wing reported by radio,POWER_FAILURE,MEDIUM
+S0610,near Bharati intermittent voltage drops in lab wing at Maitri,POWER_FAILURE,MEDIUM
+S0611,"weak signal at outpost, retrying urgent",COMMUNICATION_LOSS,LOW
+S0612,severe chest pain reported by field scientist reported by radio,MEDICAL_EMERGENCY,CRITICAL
+S0613,at Maitri severe chest pain reported by field scientist team leader says,MEDICAL_EMERGENCY,CRITICAL
+S0614,reported by radio severe chest pain reported by field scientist at Maitri,MEDICAL_EMERGENCY,CRITICAL
+S0615,"on traverse mild hypothermia symptoms, being warmed in shelter please advise",MEDICAL_EMERGENCY,MEDIUM
+S0616,"at Maitri field team trapped by whiteout, supplies for two days only near Bharati",WEATHER_ENTRAPMENT,HIGH
+S0617,"reported by radio large diesel spill near storage tank, ignition risk urgent",FUEL_LEAK,CRITICAL
+S0618,"near Bharati burning smell from heater, switched off on traverse",FIRE,LOW
+S0619,"near Bharati new crevasse spotted on route, marked and avoided please advise",CREVASSE_ACCIDENT,LOW
+S0620,"urgent suspected fracture in leg, patient stable at Maitri",MEDICAL_EMERGENCY,HIGH
+S0621,"team leader says person slipped into crevasse, roped and conscious on traverse",CREVASSE_ACCIDENT,CRITICAL
+S0622,reported by radio spare parts running low for next month,SUPPLY_SHORTAGE,LOW
+S0623,reported by radio vehicle battery weak but can restart team leader says,VEHICLE_FAILURE,LOW
+S0624,"at Maitri main generator tripped, backup running",POWER_FAILURE,HIGH
+S0625,medical kits nearly exhausted after incident,SUPPLY_SHORTAGE,HIGH
+S0626,"urgent smoke in generator hall, source not found reported by radio",FIRE,HIGH
+S0627,"urgent strong katabatic winds, movement suspended, team sheltered at Maitri",WEATHER_ENTRAPMENT,MEDIUM
+S0628,"reported by radio large diesel spill near storage tank, ignition risk at Maitri",FUEL_LEAK,CRITICAL
+S0629,near Bharati vehicle engine overheating during traverse at Maitri,VEHICLE_FAILURE,MEDIUM
+S0630,team leader says severe chest pain reported by field scientist on traverse,MEDICAL_EMERGENCY,CRITICAL
+S0631,"near Bharati strong katabatic winds, movement suspended, team sheltered",WEATHER_ENTRAPMENT,MEDIUM
+S0632,"reported by radio burning smell from heater, switched off near Bharati",FIRE,LOW
+S0633,team leader says medical kits nearly exhausted after incident reported by radio,SUPPLY_SHORTAGE,HIGH
+S0634,"at Maitri strong katabatic winds, movement suspended, team sheltered at Maitri",WEATHER_ENTRAPMENT,MEDIUM
+S0635,"reported by radio fire spreading in accommodation module, evacuation started at Maitri",FIRE,CRITICAL
+S0636,"at Maitri food stock below critical level, resupply delayed at Maitri",SUPPLY_SHORTAGE,HIGH
+S0637,"urgent small drip at pump connector, tightened team leader says",FUEL_LEAK,LOW
+S0638,"near Bharati team member unconscious after fall, not breathing normally at Maitri",MEDICAL_EMERGENCY,CRITICAL
+S0639,"large diesel spill near storage tank, ignition risk reported by radio",FUEL_LEAK,CRITICAL
+S0640,"near Bharati small drip at pump connector, tightened reported by radio",FUEL_LEAK,LOW
+S0641,near Bharati vehicle engine overheating during traverse at Maitri,VEHICLE_FAILURE,MEDIUM
+S0642,medical kits nearly exhausted after incident reported by radio,SUPPLY_SHORTAGE,HIGH
+S0643,team leader says spare parts running low for next month please advise,SUPPLY_SHORTAGE,LOW
+S0644,"team leader says person slipped into crevasse, roped and conscious please advise",CREVASSE_ACCIDENT,CRITICAL
+S0645,"team leader says new crevasse spotted on route, marked and avoided",CREVASSE_ACCIDENT,LOW
+S0646,"reported by radio tracked vehicle immobilised far from station, night approaching near Bharati",VEHICLE_FAILURE,HIGH
+S0647,"reported by radio person slipped into crevasse, roped and conscious",CREVASSE_ACCIDENT,CRITICAL
+S0648,"team leader says visibility poor, delaying return by hours team leader says",WEATHER_ENTRAPMENT,LOW
+S0649,"reported by radio fire spreading in accommodation module, evacuation started on traverse",FIRE,CRITICAL
+S0650,near Bharati spare parts running low for next month at Maitri,SUPPLY_SHORTAGE,LOW
+S0651,reported by radio vehicle battery weak but can restart reported by radio,VEHICLE_FAILURE,LOW
+S0652,"team leader says satellite link down, radio working near Bharati",COMMUNICATION_LOSS,MEDIUM
+S0653,"urgent satellite link down, radio working team leader says",COMMUNICATION_LOSS,MEDIUM
+S0654,"urgent large diesel spill near storage tank, ignition risk at Maitri",FUEL_LEAK,CRITICAL
+S0655,team leader says vehicle engine overheating during traverse on traverse,VEHICLE_FAILURE,MEDIUM
+S0656,please advise vehicle battery weak but can restart urgent,VEHICLE_FAILURE,LOW
+S0657,please advise vehicle engine overheating during traverse please advise,VEHICLE_FAILURE,MEDIUM
+S0658,"urgent small drip at pump connector, tightened at Maitri",FUEL_LEAK,LOW
+S0659,"urgent large diesel spill near storage tank, ignition risk near Bharati",FUEL_LEAK,CRITICAL
+S0660,"please advise field team trapped by whiteout, supplies for two days only at Maitri",WEATHER_ENTRAPMENT,HIGH
+S0661,near Bharati medical kits nearly exhausted after incident urgent,SUPPLY_SHORTAGE,HIGH
+S0662,"reported by radio large diesel spill near storage tank, ignition risk at Maitri",FUEL_LEAK,CRITICAL
+S0663,"urgent food stock below critical level, resupply delayed urgent",SUPPLY_SHORTAGE,HIGH
+S0664,"please advise large diesel spill near storage tank, ignition risk urgent",FUEL_LEAK,CRITICAL
+S0665,"team leader says new crevasse spotted on route, marked and avoided urgent",CREVASSE_ACCIDENT,LOW
+S0666,"urgent small electrical fire in lab, extinguished urgent",FIRE,MEDIUM
+S0667,on traverse spare parts running low for next month on traverse,SUPPLY_SHORTAGE,LOW
+S0668,"near Bharati slow fuel leak from drum, contained with absorbent on traverse",FUEL_LEAK,MEDIUM
+S0669,"on traverse sledge tow bracket broken, cargo stable",VEHICLE_FAILURE,MEDIUM
+S0670,"urgent frostbite on fingers of two crew, needs treatment reported by radio",MEDICAL_EMERGENCY,HIGH
+S0671,"reported by radio mild hypothermia symptoms, being warmed in shelter",MEDICAL_EMERGENCY,MEDIUM
+S0672,"near Bharati field team trapped by whiteout, supplies for two days only urgent",WEATHER_ENTRAPMENT,HIGH
+S0673,"urgent slow fuel leak from drum, contained with absorbent on traverse",FUEL_LEAK,MEDIUM
+S0674,"reported by radio large diesel spill near storage tank, ignition risk on traverse",FUEL_LEAK,CRITICAL
+S0675,near Bharati vehicle engine overheating during traverse at Maitri,VEHICLE_FAILURE,MEDIUM
+S0676,"team leader says person slipped into crevasse, roped and conscious please advise",CREVASSE_ACCIDENT,CRITICAL
+S0677,"on traverse weak signal at outpost, retrying urgent",COMMUNICATION_LOSS,LOW
+S0678,"urgent large diesel spill near storage tank, ignition risk",FUEL_LEAK,CRITICAL
+S0679,"tracked vehicle immobilised far from station, night approaching reported by radio",VEHICLE_FAILURE,HIGH
+S0680,"person slipped into crevasse, roped and conscious on traverse",CREVASSE_ACCIDENT,CRITICAL
+S0681,"near Bharati visibility poor, delaying return by hours on traverse",WEATHER_ENTRAPMENT,LOW
+S0682,"urgent vehicle partially fallen into crevasse, crew trapped inside at Maitri",CREVASSE_ACCIDENT,CRITICAL
+S0683,on traverse intermittent voltage drops in lab wing near Bharati,POWER_FAILURE,MEDIUM
+S0684,"on traverse food stock below critical level, resupply delayed please advise",SUPPLY_SHORTAGE,HIGH
+S0685,"frostbite on fingers of two crew, needs treatment",MEDICAL_EMERGENCY,HIGH
+S0686,"team leader says field team trapped by whiteout, supplies for two days only urgent",WEATHER_ENTRAPMENT,HIGH
+S0687,urgent lost contact with field team for six hours team leader says,COMMUNICATION_LOSS,HIGH
+S0688,please advise severe chest pain reported by field scientist team leader says,MEDICAL_EMERGENCY,CRITICAL
+S0689,"please advise strong katabatic winds, movement suspended, team sheltered",WEATHER_ENTRAPMENT,MEDIUM
+S0690,"at Maitri mild hypothermia symptoms, being warmed in shelter team leader says",MEDICAL_EMERGENCY,MEDIUM
+S0691,"near Bharati minor cut on hand, first aid applied on traverse",MEDICAL_EMERGENCY,LOW
+S0692,"main generator tripped, backup running at Maitri",POWER_FAILURE,HIGH
+S0693,near Bharati lost contact with field team for six hours reported by radio,COMMUNICATION_LOSS,HIGH
+S0694,"urgent weak signal at outpost, retrying reported by radio",COMMUNICATION_LOSS,LOW
+S0695,"team leader says visibility poor, delaying return by hours please advise",WEATHER_ENTRAPMENT,LOW
+S0696,"near Bharati satellite link down, radio working",COMMUNICATION_LOSS,MEDIUM
+S0697,at Maitri spare parts running low for next month on traverse,SUPPLY_SHORTAGE,LOW
+S0698,"at Maitri weak signal at outpost, retrying urgent",COMMUNICATION_LOSS,LOW
+S0699,"please advise slow fuel leak from drum, contained with absorbent urgent",FUEL_LEAK,MEDIUM
+S0700,"on traverse weak signal at outpost, retrying urgent",COMMUNICATION_LOSS,LOW
+S0701,"at Maitri suspected fracture in leg, patient stable please advise",MEDICAL_EMERGENCY,HIGH
+S0702,"team leader says smoke in generator hall, source not found urgent",FIRE,HIGH
+S0703,"smoke in generator hall, source not found reported by radio",FIRE,HIGH
+S0704,urgent vehicle engine overheating during traverse urgent,VEHICLE_FAILURE,MEDIUM
+S0705,"visibility poor, delaying return by hours team leader says",WEATHER_ENTRAPMENT,LOW
+S0706,"at Maitri slow fuel leak from drum, contained with absorbent reported by radio",FUEL_LEAK,MEDIUM
+S0707,"at Maitri fire spreading in accommodation module, evacuation started at Maitri",FIRE,CRITICAL
+S0708,"urgent new crevasse spotted on route, marked and avoided near Bharati",CREVASSE_ACCIDENT,LOW
+S0709,"urgent satellite link down, radio working",COMMUNICATION_LOSS,MEDIUM
+S0710,"on traverse visibility poor, delaying return by hours on traverse",WEATHER_ENTRAPMENT,LOW
+S0711,"at Maitri small electrical fire in lab, extinguished at Maitri",FIRE,MEDIUM
+S0712,team leader says total power loss at station during blizzard at Maitri,POWER_FAILURE,CRITICAL
+S0713,"near Bharati slow fuel leak from drum, contained with absorbent at Maitri",FUEL_LEAK,MEDIUM
+S0714,"on traverse small electrical fire in lab, extinguished at Maitri",FIRE,MEDIUM
+S0715,"near Bharati food stock below critical level, resupply delayed at Maitri",SUPPLY_SHORTAGE,HIGH
+S0716,"urgent fire spreading in accommodation module, evacuation started please advise",FIRE,CRITICAL
+S0717,"small drip at pump connector, tightened team leader says",FUEL_LEAK,LOW
+S0718,"satellite link down, radio working on traverse",COMMUNICATION_LOSS,MEDIUM
+S0719,near Bharati medical kits nearly exhausted after incident at Maitri,SUPPLY_SHORTAGE,HIGH
+S0720,"near Bharati fire spreading in accommodation module, evacuation started",FIRE,CRITICAL
+S0721,"reported by radio tracked vehicle immobilised far from station, night approaching urgent",VEHICLE_FAILURE,MEDIUM
+S0722,"near Bharati slow fuel leak from drum, contained with absorbent urgent",FUEL_LEAK,MEDIUM
+S0723,"team leader says person slipped into crevasse, roped and conscious near Bharati",CREVASSE_ACCIDENT,CRITICAL
+S0724,"team leader says small electrical fire in lab, extinguished team leader says",FIRE,MEDIUM
+S0725,"urgent suspected fracture in leg, patient stable reported by radio",MEDICAL_EMERGENCY,HIGH
+S0726,reported by radio vehicle battery weak but can restart reported by radio,VEHICLE_FAILURE,LOW
+S0727,"urgent burning smell from heater, switched off urgent",FIRE,LOW
+S0728,"person slipped into crevasse, roped and conscious",CREVASSE_ACCIDENT,CRITICAL
+S0729,please advise spare parts running low for next month on traverse,SUPPLY_SHORTAGE,MEDIUM
+S0730,"at Maitri minor cut on hand, first aid applied near Bharati",MEDICAL_EMERGENCY,LOW
+S0731,"please advise small drip at pump connector, tightened urgent",FUEL_LEAK,MEDIUM
+S0732,at Maitri total power loss at station during blizzard near Bharati,POWER_FAILURE,CRITICAL
+S0733,"urgent smoke in generator hall, source not found please advise",FIRE,HIGH
+S0734,"on traverse vehicle partially fallen into crevasse, crew trapped inside",CREVASSE_ACCIDENT,CRITICAL
+S0735,"urgent new crevasse spotted on route, marked and avoided at Maitri",CREVASSE_ACCIDENT,LOW
+S0736,"please advise team member unconscious after fall, not breathing normally please advise",MEDICAL_EMERGENCY,CRITICAL
+S0737,"main generator tripped, backup running team leader says",POWER_FAILURE,HIGH
+S0738,"please advise minor cut on hand, first aid applied on traverse",MEDICAL_EMERGENCY,LOW
+S0739,"at Maitri new crevasse spotted on route, marked and avoided at Maitri",CREVASSE_ACCIDENT,LOW
+S0740,"team leader says team member unconscious after fall, not breathing normally reported by radio",MEDICAL_EMERGENCY,CRITICAL
+S0741,"minor cut on hand, first aid applied on traverse",MEDICAL_EMERGENCY,LOW
+S0742,please advise intermittent voltage drops in lab wing,POWER_FAILURE,MEDIUM
+S0743,"at Maitri food stock below critical level, resupply delayed please advise",SUPPLY_SHORTAGE,HIGH
+S0744,urgent severe chest pain reported by field scientist near Bharati,MEDICAL_EMERGENCY,CRITICAL
+S0745,"please advise fire spreading in accommodation module, evacuation started reported by radio",FIRE,CRITICAL
+S0746,"at Maitri new crevasse spotted on route, marked and avoided on traverse",CREVASSE_ACCIDENT,LOW
+S0747,"please advise fire spreading in accommodation module, evacuation started on traverse",FIRE,CRITICAL
+S0748,"urgent person slipped into crevasse, roped and conscious urgent",CREVASSE_ACCIDENT,CRITICAL
+S0749,please advise spare parts running low for next month please advise,SUPPLY_SHORTAGE,LOW
+S0750,"visibility poor, delaying return by hours",WEATHER_ENTRAPMENT,LOW
+S0751,"on traverse new crevasse spotted on route, marked and avoided urgent",CREVASSE_ACCIDENT,LOW
+S0752,reported by radio severe chest pain reported by field scientist reported by radio,MEDICAL_EMERGENCY,CRITICAL
+S0753,"team leader says large diesel spill near storage tank, ignition risk team leader says",FUEL_LEAK,HIGH
+S0754,"slow fuel leak from drum, contained with absorbent team leader says",FUEL_LEAK,MEDIUM
+S0755,near Bharati spare parts running low for next month,SUPPLY_SHORTAGE,LOW
+S0756,"on traverse person slipped into crevasse, roped and conscious",CREVASSE_ACCIDENT,CRITICAL
+S0757,"food stock below critical level, resupply delayed",SUPPLY_SHORTAGE,HIGH
+S0758,"on traverse weak signal at outpost, retrying please advise",COMMUNICATION_LOSS,LOW
+S0759,near Bharati vehicle engine overheating during traverse team leader says,VEHICLE_FAILURE,MEDIUM
+S0760,"reported by radio smoke in generator hall, source not found near Bharati",FIRE,HIGH
+S0761,"on traverse weak signal at outpost, retrying",COMMUNICATION_LOSS,LOW
+S0762,"near Bharati vehicle partially fallen into crevasse, crew trapped inside near Bharati",CREVASSE_ACCIDENT,CRITICAL
+S0763,reported by radio vehicle engine overheating during traverse,VEHICLE_FAILURE,MEDIUM
+S0764,"please advise large diesel spill near storage tank, ignition risk",FUEL_LEAK,CRITICAL
+S0765,"team leader says sledge tow bracket broken, cargo stable",VEHICLE_FAILURE,MEDIUM
+S0766,"urgent main generator tripped, backup running urgent",POWER_FAILURE,HIGH
+S0767,at Maitri vehicle engine overheating during traverse reported by radio,VEHICLE_FAILURE,MEDIUM
+S0768,"on traverse strong katabatic winds, movement suspended, team sheltered urgent",WEATHER_ENTRAPMENT,MEDIUM
+S0769,"please advise slow fuel leak from drum, contained with absorbent please advise",FUEL_LEAK,MEDIUM
+S0770,"team leader says visibility poor, delaying return by hours near Bharati",WEATHER_ENTRAPMENT,LOW
+S0771,"near Bharati satellite link down, radio working urgent",COMMUNICATION_LOSS,LOW
+S0772,"please advise fire spreading in accommodation module, evacuation started please advise",FIRE,CRITICAL
+S0773,"field team trapped by whiteout, supplies for two days only",WEATHER_ENTRAPMENT,HIGH
+S0774,"reported by radio strong katabatic winds, movement suspended, team sheltered urgent",WEATHER_ENTRAPMENT,MEDIUM
+S0775,"reported by radio fire spreading in accommodation module, evacuation started urgent",FIRE,CRITICAL
+S0776,on traverse medical kits nearly exhausted after incident at Maitri,SUPPLY_SHORTAGE,HIGH
+S0777,"frostbite on fingers of two crew, needs treatment",MEDICAL_EMERGENCY,HIGH
+S0778,"at Maitri smoke in generator hall, source not found on traverse",FIRE,HIGH
+S0779,"near Bharati food stock below critical level, resupply delayed on traverse",SUPPLY_SHORTAGE,HIGH
+S0780,"near Bharati suspected fracture in leg, patient stable at Maitri",MEDICAL_EMERGENCY,HIGH
+S0781,please advise lost contact with field team for six hours please advise,COMMUNICATION_LOSS,HIGH
+S0782,"near Bharati slow fuel leak from drum, contained with absorbent near Bharati",FUEL_LEAK,MEDIUM
+S0783,"at Maitri weak signal at outpost, retrying near Bharati",COMMUNICATION_LOSS,LOW
+S0784,"small drip at pump connector, tightened urgent",FUEL_LEAK,LOW
+S0785,near Bharati medical kits nearly exhausted after incident,SUPPLY_SHORTAGE,HIGH
+S0786,"strong katabatic winds, movement suspended, team sheltered team leader says",WEATHER_ENTRAPMENT,MEDIUM
+S0787,"on traverse new crevasse spotted on route, marked and avoided",CREVASSE_ACCIDENT,LOW
+S0788,"on traverse large diesel spill near storage tank, ignition risk on traverse",FUEL_LEAK,CRITICAL
+S0789,team leader says medical kits nearly exhausted after incident on traverse,SUPPLY_SHORTAGE,HIGH
+S0790,"team leader says large diesel spill near storage tank, ignition risk team leader says",FUEL_LEAK,CRITICAL
+S0791,near Bharati medical kits nearly exhausted after incident team leader says,SUPPLY_SHORTAGE,HIGH
+S0792,"reported by radio team member unconscious after fall, not breathing normally at Maitri",MEDICAL_EMERGENCY,CRITICAL
+S0793,"burning smell from heater, switched off urgent",FIRE,LOW
+S0794,"reported by radio food stock below critical level, resupply delayed urgent",SUPPLY_SHORTAGE,HIGH
+S0795,"on traverse visibility poor, delaying return by hours team leader says",WEATHER_ENTRAPMENT,LOW
+S0796,please advise total power loss at station during blizzard urgent,POWER_FAILURE,CRITICAL
+S0797,on traverse lost contact with field team for six hours on traverse,COMMUNICATION_LOSS,HIGH
+S0798,severe chest pain reported by field scientist please advise,MEDICAL_EMERGENCY,CRITICAL
+S0799,reported by radio lost contact with field team for six hours urgent,COMMUNICATION_LOSS,HIGH
+S0800,"urgent tracked vehicle immobilised far from station, night approaching near Bharati",VEHICLE_FAILURE,HIGH
+S0801,urgent total power loss at station during blizzard please advise,POWER_FAILURE,CRITICAL
+S0802,urgent severe chest pain reported by field scientist urgent,MEDICAL_EMERGENCY,CRITICAL
+S0803,team leader says severe chest pain reported by field scientist team leader says,MEDICAL_EMERGENCY,CRITICAL
+S0804,"at Maitri small drip at pump connector, tightened",FUEL_LEAK,LOW
+S0805,vehicle engine overheating during traverse urgent,VEHICLE_FAILURE,MEDIUM
+S0806,"reported by radio strong katabatic winds, movement suspended, team sheltered",WEATHER_ENTRAPMENT,MEDIUM
+S0807,"urgent weak signal at outpost, retrying reported by radio",COMMUNICATION_LOSS,LOW
+S0808,"reported by radio weak signal at outpost, retrying reported by radio",COMMUNICATION_LOSS,LOW
+S0809,"new crevasse spotted on route, marked and avoided near Bharati",CREVASSE_ACCIDENT,LOW
+S0810,"on traverse fire spreading in accommodation module, evacuation started please advise",FIRE,CRITICAL
+S0811,urgent intermittent voltage drops in lab wing near Bharati,POWER_FAILURE,MEDIUM
+S0812,"on traverse suspected fracture in leg, patient stable urgent",MEDICAL_EMERGENCY,HIGH
+S0813,"please advise field team trapped by whiteout, supplies for two days only at Maitri",WEATHER_ENTRAPMENT,HIGH
+S0814,on traverse severe chest pain reported by field scientist,MEDICAL_EMERGENCY,CRITICAL
+S0815,"suspected fracture in leg, patient stable on traverse",MEDICAL_EMERGENCY,HIGH
+S0816,near Bharati vehicle engine overheating during traverse on traverse,VEHICLE_FAILURE,MEDIUM
+S0817,"at Maitri suspected fracture in leg, patient stable near Bharati",MEDICAL_EMERGENCY,HIGH
+S0818,"near Bharati satellite link down, radio working on traverse",COMMUNICATION_LOSS,MEDIUM
+S0819,"at Maitri suspected fracture in leg, patient stable please advise",MEDICAL_EMERGENCY,HIGH
+S0820,reported by radio severe chest pain reported by field scientist please advise,MEDICAL_EMERGENCY,CRITICAL
+S0821,"burning smell from heater, switched off please advise",FIRE,LOW
+S0822,"team leader says vehicle partially fallen into crevasse, crew trapped inside urgent",CREVASSE_ACCIDENT,CRITICAL
+S0823,"reported by radio minor cut on hand, first aid applied urgent",MEDICAL_EMERGENCY,LOW
+S0824,"near Bharati main generator tripped, backup running reported by radio",POWER_FAILURE,HIGH
+S0825,urgent spare parts running low for next month urgent,SUPPLY_SHORTAGE,LOW
+S0826,please advise severe chest pain reported by field scientist on traverse,MEDICAL_EMERGENCY,CRITICAL
+S0827,"near Bharati visibility poor, delaying return by hours urgent",WEATHER_ENTRAPMENT,LOW
+S0828,"reported by radio sledge tow bracket broken, cargo stable near Bharati",VEHICLE_FAILURE,MEDIUM
+S0829,urgent intermittent voltage drops in lab wing,POWER_FAILURE,MEDIUM
+S0830,lost contact with field team for six hours on traverse,COMMUNICATION_LOSS,HIGH
+S0831,"on traverse weak signal at outpost, retrying at Maitri",COMMUNICATION_LOSS,LOW
+S0832,"team leader says visibility poor, delaying return by hours urgent",WEATHER_ENTRAPMENT,LOW
+S0833,"urgent tracked vehicle immobilised far from station, night approaching urgent",VEHICLE_FAILURE,HIGH
+S0834,"reported by radio visibility poor, delaying return by hours at Maitri",WEATHER_ENTRAPMENT,LOW
+S0835,"urgent smoke in generator hall, source not found reported by radio",FIRE,HIGH
+S0836,"on traverse new crevasse spotted on route, marked and avoided on traverse",CREVASSE_ACCIDENT,LOW
+S0837,team leader says lost contact with field team for six hours urgent,COMMUNICATION_LOSS,HIGH
+S0838,team leader says vehicle engine overheating during traverse on traverse,VEHICLE_FAILURE,MEDIUM
+S0839,"near Bharati team member unconscious after fall, not breathing normally on traverse",MEDICAL_EMERGENCY,CRITICAL
+S0840,urgent vehicle engine overheating during traverse reported by radio,VEHICLE_FAILURE,MEDIUM
+S0841,"on traverse vehicle partially fallen into crevasse, crew trapped inside reported by radio",CREVASSE_ACCIDENT,CRITICAL
+S0842,"on traverse small drip at pump connector, tightened near Bharati",FUEL_LEAK,LOW
+S0843,"please advise burning smell from heater, switched off reported by radio",FIRE,LOW
+S0844,"reported by radio food stock below critical level, resupply delayed team leader says",SUPPLY_SHORTAGE,HIGH
+S0845,intermittent voltage drops in lab wing on traverse,POWER_FAILURE,MEDIUM
+S0846,vehicle engine overheating during traverse on traverse,VEHICLE_FAILURE,MEDIUM
+S0847,on traverse medical kits nearly exhausted after incident team leader says,SUPPLY_SHORTAGE,MEDIUM
+S0848,"reported by radio vehicle partially fallen into crevasse, crew trapped inside reported by radio",CREVASSE_ACCIDENT,CRITICAL
+S0849,"at Maitri large diesel spill near storage tank, ignition risk reported by radio",FUEL_LEAK,CRITICAL
+S0850,urgent medical kits nearly exhausted after incident team leader says,SUPPLY_SHORTAGE,HIGH
+S0851,"urgent team member unconscious after fall, not breathing normally urgent",MEDICAL_EMERGENCY,CRITICAL
+S0852,severe chest pain reported by field scientist,MEDICAL_EMERGENCY,CRITICAL
+S0853,near Bharati intermittent voltage drops in lab wing reported by radio,POWER_FAILURE,MEDIUM
+S0854,medical kits nearly exhausted after incident at Maitri,SUPPLY_SHORTAGE,HIGH
+S0855,"minor cut on hand, first aid applied at Maitri",MEDICAL_EMERGENCY,LOW
+S0856,near Bharati lost contact with field team for six hours urgent,COMMUNICATION_LOSS,HIGH
+S0857,near Bharati total power loss at station during blizzard on traverse,POWER_FAILURE,CRITICAL
+S0858,near Bharati spare parts running low for next month team leader says,SUPPLY_SHORTAGE,LOW
+S0859,"team leader says main generator tripped, backup running reported by radio",POWER_FAILURE,HIGH
+S0860,"reported by radio slow fuel leak from drum, contained with absorbent please advise",FUEL_LEAK,MEDIUM
+S0861,"team leader says burning smell from heater, switched off please advise",FIRE,LOW
+S0862,"near Bharati weak signal at outpost, retrying team leader says",COMMUNICATION_LOSS,LOW
+S0863,"on traverse slow fuel leak from drum, contained with absorbent team leader says",FUEL_LEAK,MEDIUM
+S0864,on traverse lost contact with field team for six hours please advise,COMMUNICATION_LOSS,HIGH
+S0865,"urgent tracked vehicle immobilised far from station, night approaching on traverse",VEHICLE_FAILURE,CRITICAL
+S0866,urgent medical kits nearly exhausted after incident team leader says,SUPPLY_SHORTAGE,HIGH
+S0867,"please advise new crevasse spotted on route, marked and avoided team leader says",CREVASSE_ACCIDENT,LOW
+S0868,vehicle engine overheating during traverse at Maitri,VEHICLE_FAILURE,MEDIUM
+S0869,intermittent voltage drops in lab wing reported by radio,POWER_FAILURE,MEDIUM
+S0870,"team leader says main generator tripped, backup running team leader says",POWER_FAILURE,HIGH
+S0871,"on traverse tracked vehicle immobilised far from station, night approaching at Maitri",VEHICLE_FAILURE,HIGH
+S0872,"on traverse tracked vehicle immobilised far from station, night approaching team leader says",VEHICLE_FAILURE,HIGH
+S0873,"burning smell from heater, switched off urgent",FIRE,LOW
+S0874,"near Bharati strong katabatic winds, movement suspended, team sheltered reported by radio",WEATHER_ENTRAPMENT,MEDIUM
+S0875,at Maitri lost contact with field team for six hours team leader says,COMMUNICATION_LOSS,HIGH
+S0876,"at Maitri satellite link down, radio working",COMMUNICATION_LOSS,MEDIUM
+S0877,"urgent visibility poor, delaying return by hours near Bharati",WEATHER_ENTRAPMENT,LOW
+S0878,"at Maitri burning smell from heater, switched off team leader says",FIRE,LOW
+S0879,"at Maitri small electrical fire in lab, extinguished urgent",FIRE,MEDIUM
+S0880,"reported by radio satellite link down, radio working team leader says",COMMUNICATION_LOSS,MEDIUM
+S0881,team leader says spare parts running low for next month near Bharati,SUPPLY_SHORTAGE,MEDIUM
+S0882,"team leader says satellite link down, radio working please advise",COMMUNICATION_LOSS,MEDIUM
+S0883,"reported by radio small electrical fire in lab, extinguished at Maitri",FIRE,MEDIUM
+S0884,vehicle engine overheating during traverse on traverse,VEHICLE_FAILURE,MEDIUM
+S0885,"fire spreading in accommodation module, evacuation started",FIRE,CRITICAL
+S0886,"please advise burning smell from heater, switched off on traverse",FIRE,LOW
+S0887,"please advise burning smell from heater, switched off on traverse",FIRE,LOW
+S0888,"team leader says strong katabatic winds, movement suspended, team sheltered team leader says",WEATHER_ENTRAPMENT,MEDIUM
+S0889,"near Bharati small electrical fire in lab, extinguished reported by radio",FIRE,MEDIUM
+S0890,vehicle battery weak but can restart on traverse,VEHICLE_FAILURE,LOW
+S0891,lost contact with field team for six hours near Bharati,COMMUNICATION_LOSS,HIGH
+S0892,"near Bharati vehicle partially fallen into crevasse, crew trapped inside at Maitri",CREVASSE_ACCIDENT,CRITICAL
+S0893,"at Maitri large diesel spill near storage tank, ignition risk reported by radio",FUEL_LEAK,CRITICAL
+S0894,"at Maitri large diesel spill near storage tank, ignition risk reported by radio",FUEL_LEAK,CRITICAL
+S0895,"on traverse field team trapped by whiteout, supplies for two days only",WEATHER_ENTRAPMENT,HIGH
+S0896,reported by radio lost contact with field team for six hours near Bharati,COMMUNICATION_LOSS,HIGH
+S0897,team leader says lost contact with field team for six hours reported by radio,COMMUNICATION_LOSS,HIGH
+S0898,"on traverse visibility poor, delaying return by hours team leader says",WEATHER_ENTRAPMENT,LOW
+S0899,"at Maitri visibility poor, delaying return by hours",WEATHER_ENTRAPMENT,LOW

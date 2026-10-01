@@ -1,0 +1,59 @@
+{
+  "voyage_delay": {
+    "auc": 0.913,
+    "brier": 0.1176,
+    "base_rate": 0.386,
+    "p90_coverage": 0.852,
+    "mae_days_p50": 0.721,
+    "n_train": 2560,
+    "n_test": 640,
+    "split": "time-based 80/20"
+  },
+  "inventory": {
+    "Food Supplies": {
+      "mape": 0.051,
+      "rel_sigma": 0.064,
+      "anomaly_precision": 1.0,
+      "anomaly_recall": 1.0
+    },
+    "Diesel Fuel": {
+      "mape": 0.052,
+      "rel_sigma": 0.064,
+      "anomaly_precision": 0.964,
+      "anomaly_recall": 1.0
+    },
+    "Medical Kits": {
+      "mape": 0.053,
+      "rel_sigma": 0.066,
+      "anomaly_precision": 1.0,
+      "anomaly_recall": 1.0
+    },
+    "Spare Parts": {
+      "mape": 0.055,
+      "rel_sigma": 0.069,
+      "anomaly_precision": 1.0,
+      "anomaly_recall": 1.0
+    }
+  },
+  "asset_failure": {
+    "auc": 0.775,
+    "base_rate": 0.38,
+    "n_train": 768,
+    "n_test": 192
+  },
+  "sos_triage": {
+    "incident_type": {
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    },
+    "severity": {
+      "accuracy": 0.961,
+      "macro_f1": 0.962
+    }
+  },
+  "meta": {
+    "data": "synthetic",
+    "seed": 42,
+    "trained_at": "2026-09-30T21:34:59"
+  }
+}
